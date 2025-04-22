@@ -1,0 +1,1521 @@
+Year,City,Population (in Lakhs) (2011)+,Type,Crime Rate
+2014.0,Ahmedabad,63.5,Murder,1.2913385826771653
+2015.0,Ahmedabad,63.5,Murder,1.4803149606299213
+2016.0,Ahmedabad,63.5,Murder,1.6220472440944882
+2017.0,Ahmedabad,63.5,Murder,1.4173228346456692
+2018.0,Ahmedabad,63.5,Murder,1.5433070866141732
+2019.0,Ahmedabad,63.5,Murder,1.2755905511811023
+2020.0,Ahmedabad,63.5,Murder,1.1023622047244095
+2021.0,Ahmedabad,63.5,Murder,1.5275590551181102
+2014.0,Bengaluru,85.0,Murder,2.835294117647059
+2015.0,Bengaluru,85.0,Murder,2.764705882352941
+2016.0,Bengaluru,85.0,Murder,2.6941176470588237
+2017.0,Bengaluru,85.0,Murder,2.764705882352941
+2018.0,Bengaluru,85.0,Murder,2.5647058823529414
+2019.0,Bengaluru,85.0,Murder,2.4
+2020.0,Bengaluru,85.0,Murder,2.1058823529411765
+2021.0,Bengaluru,85.0,Murder,1.8235294117647058
+2014.0,Chennai,87.0,Murder,1.8505747126436782
+2015.0,Chennai,87.0,Murder,1.7126436781609196
+2016.0,Chennai,87.0,Murder,1.528735632183908
+2017.0,Chennai,87.0,Murder,1.7701149425287357
+2018.0,Chennai,87.0,Murder,1.9770114942528736
+2019.0,Chennai,87.0,Murder,1.9770114942528736
+2020.0,Chennai,87.0,Murder,1.7241379310344827
+2021.0,Chennai,87.0,Murder,1.8505747126436782
+2014.0,Coimbatore,21.5,Murder,0.9767441860465116
+2015.0,Coimbatore,21.5,Murder,1.1627906976744187
+2016.0,Coimbatore,21.5,Murder,1.255813953488372
+2017.0,Coimbatore,21.5,Murder,0.9767441860465116
+2018.0,Coimbatore,21.5,Murder,1.441860465116279
+2019.0,Coimbatore,21.5,Murder,1.813953488372093
+2020.0,Coimbatore,21.5,Murder,1.441860465116279
+2021.0,Coimbatore,21.5,Murder,1.3953488372093024
+2014.0,Delhi,163.1,Murder,2.8939301042305337
+2015.0,Delhi,163.1,Murder,2.942979767014102
+2016.0,Delhi,163.1,Murder,2.936848559166156
+2017.0,Delhi,163.1,Murder,2.452483139178418
+2018.0,Delhi,163.1,Murder,2.550582464745555
+2019.0,Delhi,163.1,Murder,3.096259963212753
+2020.0,Delhi,163.1,Murder,2.826486817903127
+2021.0,Delhi,163.1,Murder,2.7835683629675048
+2014.0,Ghaziabad,23.6,Murder,3.0932203389830506
+2015.0,Ghaziabad,23.6,Murder,2.754237288135593
+2016.0,Ghaziabad,23.6,Murder,2.5
+2017.0,Ghaziabad,23.6,Murder,2.2033898305084745
+2018.0,Ghaziabad,23.6,Murder,2.2033898305084745
+2019.0,Ghaziabad,23.6,Murder,2.0338983050847457
+2020.0,Ghaziabad,23.6,Murder,0.9745762711864406
+2021.0,Ghaziabad,23.6,Murder,1.059322033898305
+2014.0,Hyderabad,77.5,Murder,1.5225806451612902
+2015.0,Hyderabad,77.5,Murder,1.2258064516129032
+2016.0,Hyderabad,77.5,Murder,1.1096774193548387
+2017.0,Hyderabad,77.5,Murder,0.8258064516129032
+2018.0,Hyderabad,77.5,Murder,1.0451612903225806
+2019.0,Hyderabad,77.5,Murder,1.1096774193548387
+2020.0,Hyderabad,77.5,Murder,0.9161290322580645
+2021.0,Hyderabad,77.5,Murder,1.264516129032258
+2014.0,Indore,21.7,Murder,4.055299539170507
+2015.0,Indore,21.7,Murder,2.8110599078341014
+2016.0,Indore,21.7,Murder,2.672811059907834
+2017.0,Indore,21.7,Murder,2.9493087557603688
+2018.0,Indore,21.7,Murder,2.6267281105990783
+2019.0,Indore,21.7,Murder,2.6267281105990783
+2020.0,Indore,21.7,Murder,2.903225806451613
+2021.0,Indore,21.7,Murder,2.488479262672811
+2014.0,Jaipur,30.7,Murder,3.5179153094462543
+2015.0,Jaipur,30.7,Murder,2.9315960912052117
+2016.0,Jaipur,30.7,Murder,3.1596091205211727
+2017.0,Jaipur,30.7,Murder,2.9315960912052117
+2018.0,Jaipur,30.7,Murder,3.1270358306188926
+2019.0,Jaipur,30.7,Murder,3.029315960912052
+2020.0,Jaipur,30.7,Murder,3.0944625407166124
+2021.0,Jaipur,30.7,Murder,3.8436482084690553
+2014.0,Kanpur,29.2,Murder,1.9178082191780823
+2015.0,Kanpur,29.2,Murder,2.0205479452054793
+2016.0,Kanpur,29.2,Murder,2.363013698630137
+2017.0,Kanpur,29.2,Murder,1.7465753424657535
+2018.0,Kanpur,29.2,Murder,1.7465753424657535
+2019.0,Kanpur,29.2,Murder,1.815068493150685
+2020.0,Kanpur,29.2,Murder,1.404109589041096
+2021.0,Kanpur,29.2,Murder,1.6438356164383563
+2014.0,Kochi,21.2,Murder,0.6132075471698113
+2015.0,Kochi,21.2,Murder,0.5660377358490566
+2016.0,Kochi,21.2,Murder,0.4716981132075472
+2017.0,Kochi,21.2,Murder,0.5188679245283019
+2018.0,Kochi,21.2,Murder,0.5660377358490566
+2019.0,Kochi,21.2,Murder,1.0377358490566038
+2020.0,Kochi,21.2,Murder,0.42452830188679247
+2021.0,Kochi,21.2,Murder,0.4716981132075472
+2014.0,Kolkata,141.1,Murder,0.5244507441530829
+2015.0,Kolkata,141.1,Murder,0.4606661941885188
+2016.0,Kolkata,141.1,Murder,0.5527994330262226
+2017.0,Kolkata,141.1,Murder,0.4535790219702339
+2018.0,Kolkata,141.1,Murder,0.38979447200566975
+2019.0,Kolkata,141.1,Murder,0.35435861091424525
+2020.0,Kolkata,141.1,Murder,0.37562012756909996
+2021.0,Kolkata,141.1,Murder,0.3189227498228207
+2014.0,Kozhikode,20.3,Murder,0.3940886699507389
+2015.0,Kozhikode,20.3,Murder,0.19704433497536944
+2016.0,Kozhikode,20.3,Murder,0.14778325123152708
+2017.0,Kozhikode,20.3,Murder,0.3448275862068965
+2018.0,Kozhikode,20.3,Murder,0.3940886699507389
+2019.0,Kozhikode,20.3,Murder,0.3448275862068965
+2020.0,Kozhikode,20.3,Murder,0.24630541871921183
+2021.0,Kozhikode,20.3,Murder,0.24630541871921183
+2014.0,Lucknow,29.0,Murder,3.689655172413793
+2015.0,Lucknow,29.0,Murder,3.413793103448276
+2016.0,Lucknow,29.0,Murder,3.3448275862068964
+2017.0,Lucknow,29.0,Murder,2.7241379310344827
+2018.0,Lucknow,29.0,Murder,2.896551724137931
+2019.0,Lucknow,29.0,Murder,2.586206896551724
+2020.0,Lucknow,29.0,Murder,2.793103448275862
+2021.0,Lucknow,29.0,Murder,3.4827586206896552
+2014.0,Mumbai,184.1,Murder,0.9940249864204237
+2015.0,Mumbai,184.1,Murder,0.8690928843020098
+2016.0,Mumbai,184.1,Murder,0.7984790874524715
+2017.0,Mumbai,184.1,Murder,0.6898424769147203
+2018.0,Mumbai,184.1,Murder,0.8908202064095601
+2019.0,Mumbai,184.1,Murder,0.9125475285171103
+2020.0,Mumbai,184.1,Murder,0.8039109179793591
+2021.0,Mumbai,184.1,Murder,0.8799565453557849
+2014.0,Nagpur,25.0,Murder,4.12
+2015.0,Nagpur,25.0,Murder,3.52
+2016.0,Nagpur,25.0,Murder,3.68
+2017.0,Nagpur,25.0,Murder,3.4
+2018.0,Nagpur,25.0,Murder,2.88
+2019.0,Nagpur,25.0,Murder,3.6
+2020.0,Nagpur,25.0,Murder,3.88
+2021.0,Nagpur,25.0,Murder,3.8
+2014.0,Patna,20.5,Murder,10.0
+2015.0,Patna,20.5,Murder,9.268292682926829
+2016.0,Patna,20.5,Murder,9.512195121951219
+2017.0,Patna,20.5,Murder,8.926829268292684
+2018.0,Patna,20.5,Murder,4.439024390243903
+2019.0,Patna,20.5,Murder,4.682926829268292
+2020.0,Patna,20.5,Murder,3.8536585365853657
+2021.0,Patna,20.5,Murder,3.707317073170732
+2014.0,Pune,50.5,Murder,2.732673267326733
+2015.0,Pune,50.5,Murder,2.4752475247524752
+2016.0,Pune,50.5,Murder,2.5742574257425743
+2017.0,Pune,50.5,Murder,2.1782178217821784
+2018.0,Pune,50.5,Murder,1.4455445544554455
+2019.0,Pune,50.5,Murder,1.4653465346534653
+2020.0,Pune,50.5,Murder,1.5247524752475248
+2021.0,Pune,50.5,Murder,1.9801980198019802
+2014.0,Surat,45.8,Murder,1.8558951965065504
+2015.0,Surat,45.8,Murder,1.9650655021834063
+2016.0,Surat,45.8,Murder,2.2270742358078603
+2017.0,Surat,45.8,Murder,1.9432314410480351
+2018.0,Surat,45.8,Murder,2.3580786026200875
+2019.0,Surat,45.8,Murder,2.1179039301310043
+2020.0,Surat,45.8,Murder,2.532751091703057
+2021.0,Surat,45.8,Murder,2.641921397379913
+2014.0,Ahmedabad,63.5,Kidnapping,5.7795275590551185
+2015.0,Ahmedabad,63.5,Kidnapping,5.228346456692913
+2016.0,Ahmedabad,63.5,Kidnapping,5.921259842519685
+2017.0,Ahmedabad,63.5,Kidnapping,4.141732283464567
+2018.0,Ahmedabad,63.5,Kidnapping,4.362204724409449
+2019.0,Ahmedabad,63.5,Kidnapping,3.905511811023622
+2020.0,Ahmedabad,63.5,Kidnapping,2.8503937007874014
+2021.0,Ahmedabad,63.5,Kidnapping,2.8818897637795278
+2014.0,Bengaluru,85.0,Kidnapping,8.329411764705883
+2015.0,Bengaluru,85.0,Kidnapping,9.141176470588235
+2016.0,Bengaluru,85.0,Kidnapping,11.458823529411765
+2017.0,Bengaluru,85.0,Kidnapping,12.352941176470589
+2018.0,Bengaluru,85.0,Kidnapping,12.823529411764707
+2019.0,Bengaluru,85.0,Kidnapping,12.388235294117647
+2020.0,Bengaluru,85.0,Kidnapping,8.376470588235295
+2021.0,Bengaluru,85.0,Kidnapping,9.541176470588235
+2014.0,Chennai,87.0,Kidnapping,0.41379310344827586
+2015.0,Chennai,87.0,Kidnapping,0.42528735632183906
+2016.0,Chennai,87.0,Kidnapping,0.39080459770114945
+2017.0,Chennai,87.0,Kidnapping,0.6206896551724138
+2018.0,Chennai,87.0,Kidnapping,0.6436781609195402
+2019.0,Chennai,87.0,Kidnapping,0.5632183908045977
+2020.0,Chennai,87.0,Kidnapping,0.42528735632183906
+2021.0,Chennai,87.0,Kidnapping,0.8160919540229885
+2014.0,Coimbatore,21.5,Kidnapping,0.6511627906976745
+2015.0,Coimbatore,21.5,Kidnapping,0.46511627906976744
+2016.0,Coimbatore,21.5,Kidnapping,0.37209302325581395
+2017.0,Coimbatore,21.5,Kidnapping,0.23255813953488372
+2018.0,Coimbatore,21.5,Kidnapping,0.46511627906976744
+2019.0,Coimbatore,21.5,Kidnapping,0.32558139534883723
+2020.0,Coimbatore,21.5,Kidnapping,0.18604651162790697
+2021.0,Coimbatore,21.5,Kidnapping,0.5116279069767442
+2014.0,Delhi,163.1,Kidnapping,36.88534641324341
+2015.0,Delhi,163.1,Kidnapping,40.64990803188228
+2016.0,Delhi,163.1,Kidnapping,36.32740649908032
+2017.0,Delhi,163.1,Kidnapping,31.900674432863276
+2018.0,Delhi,163.1,Kidnapping,31.416309012875537
+2019.0,Delhi,163.1,Kidnapping,35.229920294297976
+2020.0,Delhi,163.1,Kidnapping,24.59227467811159
+2021.0,Delhi,163.1,Kidnapping,33.5683629675046
+2014.0,Ghaziabad,23.6,Kidnapping,11.694915254237287
+2015.0,Ghaziabad,23.6,Kidnapping,13.347457627118644
+2016.0,Ghaziabad,23.6,Kidnapping,15.59322033898305
+2017.0,Ghaziabad,23.6,Kidnapping,22.54237288135593
+2018.0,Ghaziabad,23.6,Kidnapping,23.177966101694913
+2019.0,Ghaziabad,23.6,Kidnapping,17.28813559322034
+2020.0,Ghaziabad,23.6,Kidnapping,3.3050847457627115
+2021.0,Ghaziabad,23.6,Kidnapping,2.11864406779661
+2014.0,Hyderabad,77.5,Kidnapping,4.825806451612904
+2015.0,Hyderabad,77.5,Kidnapping,4.283870967741936
+2016.0,Hyderabad,77.5,Kidnapping,4.632258064516129
+2017.0,Hyderabad,77.5,Kidnapping,4.4
+2018.0,Hyderabad,77.5,Kidnapping,5.303225806451613
+2019.0,Hyderabad,77.5,Kidnapping,6.696774193548387
+2020.0,Hyderabad,77.5,Kidnapping,5.819354838709677
+2021.0,Hyderabad,77.5,Kidnapping,6.619354838709677
+2014.0,Indore,21.7,Kidnapping,20.23041474654378
+2015.0,Indore,21.7,Kidnapping,20.87557603686636
+2016.0,Indore,21.7,Kidnapping,17.649769585253456
+2017.0,Indore,21.7,Kidnapping,30.829493087557605
+2018.0,Indore,21.7,Kidnapping,24.101382488479263
+2019.0,Indore,21.7,Kidnapping,26.95852534562212
+2020.0,Indore,21.7,Kidnapping,21.474654377880185
+2021.0,Indore,21.7,Kidnapping,31.981566820276498
+2014.0,Jaipur,30.7,Kidnapping,21.270358306188925
+2015.0,Jaipur,30.7,Kidnapping,20.521172638436482
+2016.0,Jaipur,30.7,Kidnapping,18.534201954397396
+2017.0,Jaipur,30.7,Kidnapping,16.938110749185668
+2018.0,Jaipur,30.7,Kidnapping,17.49185667752443
+2019.0,Jaipur,30.7,Kidnapping,27.00325732899023
+2020.0,Jaipur,30.7,Kidnapping,17.32899022801303
+2021.0,Jaipur,30.7,Kidnapping,19.96742671009772
+2014.0,Kanpur,29.2,Kidnapping,7.979452054794521
+2015.0,Kanpur,29.2,Kidnapping,8.86986301369863
+2016.0,Kanpur,29.2,Kidnapping,14.006849315068493
+2017.0,Kanpur,29.2,Kidnapping,18.527397260273972
+2018.0,Kanpur,29.2,Kidnapping,18.527397260273972
+2019.0,Kanpur,29.2,Kidnapping,10.0
+2020.0,Kanpur,29.2,Kidnapping,7.636986301369864
+2021.0,Kanpur,29.2,Kidnapping,5.205479452054795
+2014.0,Kochi,21.2,Kidnapping,0.18867924528301888
+2015.0,Kochi,21.2,Kidnapping,0.6132075471698113
+2016.0,Kochi,21.2,Kidnapping,0.6603773584905661
+2017.0,Kochi,21.2,Kidnapping,0.8962264150943396
+2018.0,Kochi,21.2,Kidnapping,0.5188679245283019
+2019.0,Kochi,21.2,Kidnapping,0.9905660377358491
+2020.0,Kochi,21.2,Kidnapping,0.7075471698113208
+2021.0,Kochi,21.2,Kidnapping,0.6132075471698113
+2014.0,Kolkata,141.1,Kidnapping,2.430900070871722
+2015.0,Kolkata,141.1,Kidnapping,2.2111977321048903
+2016.0,Kolkata,141.1,Kidnapping,2.0552799433026223
+2017.0,Kolkata,141.1,Kidnapping,2.6506024096385543
+2018.0,Kolkata,141.1,Kidnapping,2.678951098511694
+2019.0,Kolkata,141.1,Kidnapping,1.559177888022679
+2020.0,Kolkata,141.1,Kidnapping,2.1828490432317507
+2021.0,Kolkata,141.1,Kidnapping,2.452161587526577
+2014.0,Kozhikode,20.3,Kidnapping,0.09852216748768472
+2015.0,Kozhikode,20.3,Kidnapping,0.49261083743842365
+2016.0,Kozhikode,20.3,Kidnapping,0.3448275862068965
+2017.0,Kozhikode,20.3,Kidnapping,0.6403940886699507
+2018.0,Kozhikode,20.3,Kidnapping,0.9359605911330049
+2019.0,Kozhikode,20.3,Kidnapping,1.3300492610837438
+2020.0,Kozhikode,20.3,Kidnapping,0.5911330049261083
+2021.0,Kozhikode,20.3,Kidnapping,1.0344827586206897
+2014.0,Lucknow,29.0,Kidnapping,12.0
+2015.0,Lucknow,29.0,Kidnapping,9.827586206896552
+2016.0,Lucknow,29.0,Kidnapping,31.862068965517242
+2017.0,Lucknow,29.0,Kidnapping,23.586206896551722
+2018.0,Lucknow,29.0,Kidnapping,38.3448275862069
+2019.0,Lucknow,29.0,Kidnapping,9.275862068965518
+2020.0,Lucknow,29.0,Kidnapping,25.344827586206897
+2021.0,Lucknow,29.0,Kidnapping,26.655172413793103
+2014.0,Mumbai,184.1,Kidnapping,2.9386203150461707
+2015.0,Mumbai,184.1,Kidnapping,8.598587724063009
+2016.0,Mumbai,184.1,Kidnapping,10.586637696903857
+2017.0,Mumbai,184.1,Kidnapping,11.727322107550245
+2018.0,Mumbai,184.1,Kidnapping,11.96089082020641
+2019.0,Mumbai,184.1,Kidnapping,11.417707767517653
+2020.0,Mumbai,184.1,Kidnapping,6.3715372080391095
+2021.0,Mumbai,184.1,Kidnapping,8.636610537751222
+2014.0,Nagpur,25.0,Kidnapping,5.8
+2015.0,Nagpur,25.0,Kidnapping,14.2
+2016.0,Nagpur,25.0,Kidnapping,20.36
+2017.0,Nagpur,25.0,Kidnapping,19.76
+2018.0,Nagpur,25.0,Kidnapping,19.92
+2019.0,Nagpur,25.0,Kidnapping,21.44
+2020.0,Nagpur,25.0,Kidnapping,13.36
+2021.0,Nagpur,25.0,Kidnapping,16.6
+2014.0,Patna,20.5,Kidnapping,29.21951219512195
+2015.0,Patna,20.5,Kidnapping,42.390243902439025
+2016.0,Patna,20.5,Kidnapping,40.09756097560975
+2017.0,Patna,20.5,Kidnapping,26.4390243902439
+2018.0,Patna,20.5,Kidnapping,39.31707317073171
+2019.0,Patna,20.5,Kidnapping,38.78048780487805
+2020.0,Patna,20.5,Kidnapping,20.829268292682926
+2021.0,Patna,20.5,Kidnapping,26.78048780487805
+2014.0,Pune,50.5,Kidnapping,4.514851485148514
+2015.0,Pune,50.5,Kidnapping,14.0
+2016.0,Pune,50.5,Kidnapping,16.85148514851485
+2017.0,Pune,50.5,Kidnapping,19.08910891089109
+2018.0,Pune,50.5,Kidnapping,12.594059405940595
+2019.0,Pune,50.5,Kidnapping,12.970297029702971
+2020.0,Pune,50.5,Kidnapping,8.613861386138614
+2021.0,Pune,50.5,Kidnapping,11.306930693069306
+2014.0,Surat,45.8,Kidnapping,5.742358078602621
+2015.0,Surat,45.8,Kidnapping,5.393013100436682
+2016.0,Surat,45.8,Kidnapping,5.895196506550219
+2017.0,Surat,45.8,Kidnapping,7.248908296943232
+2018.0,Surat,45.8,Kidnapping,8.14410480349345
+2019.0,Surat,45.8,Kidnapping,7.816593886462883
+2020.0,Surat,45.8,Kidnapping,3.5589519650655026
+2021.0,Surat,45.8,Kidnapping,5.895196506550219
+2014.0,Ahmedabad,63.5,Crime against women,21.590551181102363
+2015.0,Ahmedabad,63.5,Crime against women,16.80314960629921
+2016.0,Ahmedabad,63.5,Crime against women,17.73228346456693
+2017.0,Ahmedabad,63.5,Crime against women,22.125984251968504
+2018.0,Ahmedabad,63.5,Crime against women,22.299212598425196
+2019.0,Ahmedabad,63.5,Crime against women,25.716535433070867
+2020.0,Ahmedabad,63.5,Crime against women,24.0
+2021.0,Ahmedabad,63.5,Crime against women,24.47244094488189
+2014.0,Bengaluru,85.0,Crime against women,36.470588235294116
+2015.0,Bengaluru,85.0,Crime against women,36.576470588235296
+2016.0,Bengaluru,85.0,Crime against women,40.141176470588235
+2017.0,Bengaluru,85.0,Crime against women,41.94117647058823
+2018.0,Bengaluru,85.0,Crime against women,40.31764705882353
+2019.0,Bengaluru,85.0,Crime against women,41.01176470588236
+2020.0,Bengaluru,85.0,Crime against women,32.11764705882353
+2021.0,Bengaluru,85.0,Crime against women,36.78823529411765
+2014.0,Chennai,87.0,Crime against women,10.413793103448276
+2015.0,Chennai,87.0,Crime against women,6.126436781609195
+2016.0,Chennai,87.0,Crime against women,6.252873563218391
+2017.0,Chennai,87.0,Crime against women,7.379310344827586
+2018.0,Chennai,87.0,Crime against women,8.74712643678161
+2019.0,Chennai,87.0,Crime against women,8.310344827586206
+2020.0,Chennai,87.0,Crime against women,6.620689655172414
+2021.0,Chennai,87.0,Crime against women,10.045977011494253
+2014.0,Coimbatore,21.5,Crime against women,4.883720930232558
+2015.0,Coimbatore,21.5,Crime against women,5.069767441860465
+2016.0,Coimbatore,21.5,Crime against women,4.744186046511628
+2017.0,Coimbatore,21.5,Crime against women,3.5348837209302326
+2018.0,Coimbatore,21.5,Crime against women,4.976744186046512
+2019.0,Coimbatore,21.5,Crime against women,3.953488372093023
+2020.0,Coimbatore,21.5,Crime against women,4.511627906976744
+2021.0,Coimbatore,21.5,Crime against women,8.837209302325581
+2014.0,Delhi,163.1,Crime against women,81.29981606376457
+2015.0,Delhi,163.1,Crime against women,82.78356836296751
+2016.0,Delhi,163.1,Crime against women,84.62906192519927
+2017.0,Delhi,163.1,Crime against women,70.76640098099325
+2018.0,Delhi,163.1,Crime against women,71.88228080931944
+2019.0,Delhi,163.1,Crime against women,79.10484365419988
+2020.0,Delhi,163.1,Crime against women,59.97547516860822
+2021.0,Delhi,163.1,Crime against women,85.72654812998161
+2014.0,Ghaziabad,23.6,Crime against women,43.516949152542374
+2015.0,Ghaziabad,23.6,Crime against women,38.30508474576271
+2016.0,Ghaziabad,23.6,Crime against women,43.6864406779661
+2017.0,Ghaziabad,23.6,Crime against women,49.40677966101695
+2018.0,Ghaziabad,23.6,Crime against women,47.79661016949152
+2019.0,Ghaziabad,23.6,Crime against women,33.601694915254235
+2020.0,Ghaziabad,23.6,Crime against women,14.44915254237288
+2021.0,Ghaziabad,23.6,Crime against women,25.04237288135593
+2014.0,Hyderabad,77.5,Crime against women,27.45806451612903
+2015.0,Hyderabad,77.5,Crime against women,31.612903225806452
+2016.0,Hyderabad,77.5,Crime against women,31.212903225806453
+2017.0,Hyderabad,77.5,Crime against women,29.316129032258065
+2018.0,Hyderabad,77.5,Crime against women,30.09032258064516
+2019.0,Hyderabad,77.5,Crime against women,35.54838709677419
+2020.0,Hyderabad,77.5,Crime against women,30.838709677419356
+2021.0,Hyderabad,77.5,Crime against women,39.354838709677416
+2014.0,Indore,21.7,Crime against women,43.364055299539174
+2015.0,Indore,21.7,Crime against women,42.8110599078341
+2016.0,Indore,21.7,Crime against women,48.61751152073733
+2017.0,Indore,21.7,Crime against women,62.16589861751152
+2018.0,Indore,21.7,Crime against women,73.41013824884793
+2019.0,Indore,21.7,Crime against women,80.87557603686636
+2020.0,Indore,21.7,Crime against women,62.02764976958525
+2021.0,Indore,21.7,Crime against women,82.67281105990784
+2014.0,Jaipur,30.7,Crime against women,79.08794788273616
+2015.0,Jaipur,30.7,Crime against women,71.69381107491857
+2016.0,Jaipur,30.7,Crime against women,68.07817589576547
+2017.0,Jaipur,30.7,Crime against women,60.4885993485342
+2018.0,Jaipur,30.7,Crime against women,66.12377850162866
+2019.0,Jaipur,30.7,Crime against women,111.30293159609121
+2020.0,Jaipur,30.7,Crime against women,77.16612377850163
+2021.0,Jaipur,30.7,Crime against women,92.08469055374593
+2014.0,Kanpur,29.2,Crime against women,29.417808219178085
+2015.0,Kanpur,29.2,Crime against women,27.97945205479452
+2016.0,Kanpur,29.2,Crime against women,35.95890410958904
+2017.0,Kanpur,29.2,Crime against women,53.9041095890411
+2018.0,Kanpur,29.2,Crime against women,53.9041095890411
+2019.0,Kanpur,29.2,Crime against women,45.034246575342465
+2020.0,Kanpur,29.2,Crime against women,36.16438356164384
+2021.0,Kanpur,29.2,Crime against women,30.616438356164384
+2014.0,Kochi,21.2,Crime against women,21.88679245283019
+2015.0,Kochi,21.2,Crime against women,19.245283018867926
+2016.0,Kochi,21.2,Crime against women,18.49056603773585
+2017.0,Kochi,21.2,Crime against women,25.235849056603776
+2018.0,Kochi,21.2,Crime against women,25.330188679245285
+2019.0,Kochi,21.2,Crime against women,23.20754716981132
+2020.0,Kochi,21.2,Crime against women,19.00943396226415
+2021.0,Kochi,21.2,Crime against women,25.047169811320757
+2014.0,Kolkata,141.1,Crime against women,16.67611622962438
+2015.0,Kolkata,141.1,Crime against women,13.656980864635011
+2016.0,Kolkata,141.1,Crime against women,11.998582565556344
+2017.0,Kolkata,141.1,Crime against women,13.997165131112686
+2018.0,Kolkata,141.1,Crime against women,15.421686746987952
+2019.0,Kolkata,141.1,Crime against women,10.446491849751949
+2020.0,Kolkata,141.1,Crime against women,14.181431608788094
+2021.0,Kolkata,141.1,Crime against women,12.636428065201985
+2014.0,Kozhikode,20.3,Crime against women,16.89655172413793
+2015.0,Kozhikode,20.3,Crime against women,17.88177339901478
+2016.0,Kozhikode,20.3,Crime against women,17.339901477832512
+2017.0,Kozhikode,20.3,Crime against women,17.0935960591133
+2018.0,Kozhikode,20.3,Crime against women,17.192118226600986
+2019.0,Kozhikode,20.3,Crime against women,23.300492610837438
+2020.0,Kozhikode,20.3,Crime against women,19.40886699507389
+2021.0,Kozhikode,20.3,Crime against women,31.133004926108374
+2014.0,Lucknow,29.0,Crime against women,43.44827586206897
+2015.0,Lucknow,29.0,Crime against women,50.37931034482759
+2016.0,Lucknow,29.0,Crime against women,76.03448275862068
+2017.0,Lucknow,29.0,Crime against women,85.10344827586206
+2018.0,Lucknow,29.0,Crime against women,94.34482758620689
+2019.0,Lucknow,29.0,Crime against women,83.62068965517241
+2020.0,Lucknow,29.0,Crime against women,90.89655172413794
+2021.0,Lucknow,29.0,Crime against women,74.51724137931035
+2014.0,Mumbai,184.1,Crime against women,21.58609451385117
+2015.0,Mumbai,184.1,Crime against women,26.175991309071158
+2016.0,Mumbai,184.1,Crime against women,27.854426941879414
+2017.0,Mumbai,184.1,Crime against women,29.619771863117872
+2018.0,Mumbai,184.1,Crime against women,32.906029331884845
+2019.0,Mumbai,184.1,Crime against women,35.410103204780015
+2020.0,Mumbai,184.1,Crime against women,24.894079304725693
+2021.0,Mumbai,184.1,Crime against women,30.10863661053775
+2014.0,Nagpur,25.0,Crime against women,32.56
+2015.0,Nagpur,25.0,Crime against women,52.48
+2016.0,Nagpur,25.0,Crime against women,55.16
+2017.0,Nagpur,25.0,Crime against women,46.08
+2018.0,Nagpur,25.0,Crime against women,43.32
+2019.0,Nagpur,25.0,Crime against women,45.76
+2020.0,Nagpur,25.0,Crime against women,36.8
+2021.0,Nagpur,25.0,Crime against women,46.24
+2014.0,Patna,20.5,Crime against women,50.292682926829265
+2015.0,Patna,20.5,Crime against women,65.36585365853658
+2016.0,Patna,20.5,Crime against women,62.63414634146341
+2017.0,Patna,20.5,Crime against women,42.4390243902439
+2018.0,Patna,20.5,Crime against women,46.63414634146341
+2019.0,Patna,20.5,Crime against women,47.853658536585364
+2020.0,Patna,20.5,Crime against women,24.146341463414632
+2021.0,Patna,20.5,Crime against women,23.75609756097561
+2014.0,Pune,50.5,Crime against women,26.277227722772277
+2015.0,Pune,50.5,Crime against women,39.28712871287129
+2016.0,Pune,50.5,Crime against women,42.198019801980195
+2017.0,Pune,50.5,Crime against women,40.23762376237624
+2018.0,Pune,50.5,Crime against women,29.326732673267326
+2019.0,Pune,50.5,Crime against women,27.524752475247524
+2020.0,Pune,50.5,Crime against women,20.89108910891089
+2021.0,Pune,50.5,Crime against women,32.0
+2014.0,Surat,45.8,Crime against women,15.1528384279476
+2015.0,Surat,45.8,Crime against women,10.960698689956333
+2016.0,Surat,45.8,Crime against women,12.336244541484717
+2017.0,Surat,45.8,Crime against women,12.20524017467249
+2018.0,Surat,45.8,Crime against women,15.545851528384281
+2019.0,Surat,45.8,Crime against women,22.16157205240175
+2020.0,Surat,45.8,Crime against women,13.820960698689957
+2021.0,Surat,45.8,Crime against women,13.580786026200874
+2014.0,Ahmedabad,63.5,Crime against children,6.881889763779528
+2015.0,Ahmedabad,63.5,Crime against children,9.590551181102363
+2016.0,Ahmedabad,63.5,Crime against children,7.574803149606299
+2017.0,Ahmedabad,63.5,Crime against children,9.448818897637794
+2018.0,Ahmedabad,63.5,Crime against children,11.543307086614174
+2019.0,Ahmedabad,63.5,Crime against children,12.141732283464567
+2020.0,Ahmedabad,63.5,Crime against children,9.496062992125983
+2021.0,Ahmedabad,63.5,Crime against children,10.881889763779528
+2014.0,Bengaluru,85.0,Crime against children,12.505882352941176
+2015.0,Bengaluru,85.0,Crime against children,12.776470588235295
+2016.0,Bengaluru,85.0,Crime against children,15.68235294117647
+2017.0,Bengaluru,85.0,Crime against children,18.611764705882354
+2018.0,Bengaluru,85.0,Crime against children,21.352941176470587
+2019.0,Bengaluru,85.0,Crime against children,17.50588235294118
+2020.0,Bengaluru,85.0,Crime against children,12.976470588235294
+2021.0,Bengaluru,85.0,Crime against children,15.788235294117648
+2014.0,Chennai,87.0,Crime against children,2.3563218390804597
+2015.0,Chennai,87.0,Crime against children,2.2298850574712645
+2016.0,Chennai,87.0,Crime against children,2.6436781609195403
+2017.0,Chennai,87.0,Crime against children,2.8620689655172415
+2018.0,Chennai,87.0,Crime against children,8.908045977011493
+2019.0,Chennai,87.0,Crime against children,8.402298850574713
+2020.0,Chennai,87.0,Crime against children,3.5172413793103448
+2021.0,Chennai,87.0,Crime against children,6.275862068965517
+2014.0,Coimbatore,21.5,Crime against children,1.0232558139534884
+2015.0,Coimbatore,21.5,Crime against children,1.7674418604651163
+2016.0,Coimbatore,21.5,Crime against children,3.2093023255813953
+2017.0,Coimbatore,21.5,Crime against children,1.4883720930232558
+2018.0,Coimbatore,21.5,Crime against children,1.813953488372093
+2019.0,Coimbatore,21.5,Crime against children,2.0930232558139537
+2020.0,Coimbatore,21.5,Crime against children,5.162790697674419
+2021.0,Coimbatore,21.5,Crime against children,4.930232558139535
+2014.0,Delhi,163.1,Crime against children,49.901900674432866
+2015.0,Delhi,163.1,Crime against children,49.264255058246476
+2016.0,Delhi,163.1,Crime against children,45.32188841201717
+2017.0,Delhi,163.1,Crime against children,41.96198651134274
+2018.0,Delhi,163.1,Crime against children,42.017167381974254
+2019.0,Delhi,163.1,Crime against children,46.382587369711835
+2020.0,Delhi,163.1,Crime against children,32.225628448804414
+2021.0,Delhi,163.1,Crime against children,43.09625996321275
+2014.0,Ghaziabad,23.6,Crime against children,8.09322033898305
+2015.0,Ghaziabad,23.6,Crime against children,7.627118644067796
+2016.0,Ghaziabad,23.6,Crime against children,5.508474576271186
+2017.0,Ghaziabad,23.6,Crime against children,1.7796610169491525
+2018.0,Ghaziabad,23.6,Crime against children,3.601694915254237
+2019.0,Ghaziabad,23.6,Crime against children,21.22881355932203
+2020.0,Ghaziabad,23.6,Crime against children,5.932203389830508
+2021.0,Ghaziabad,23.6,Crime against children,5.762711864406779
+2014.0,Hyderabad,77.5,Crime against children,5.974193548387097
+2015.0,Hyderabad,77.5,Crime against children,6.2709677419354835
+2016.0,Hyderabad,77.5,Crime against children,5.290322580645161
+2017.0,Hyderabad,77.5,Crime against children,4.967741935483871
+2018.0,Hyderabad,77.5,Crime against children,6.335483870967742
+2019.0,Hyderabad,77.5,Crime against children,6.529032258064516
+2020.0,Hyderabad,77.5,Crime against children,6.025806451612903
+2021.0,Hyderabad,77.5,Crime against children,8.012903225806452
+2014.0,Indore,21.7,Crime against children,33.64055299539171
+2015.0,Indore,21.7,Crime against children,22.027649769585253
+2016.0,Indore,21.7,Crime against children,29.078341013824886
+2017.0,Indore,21.7,Crime against children,36.036866359447004
+2018.0,Indore,21.7,Crime against children,44.331797235023046
+2019.0,Indore,21.7,Crime against children,44.56221198156682
+2020.0,Indore,21.7,Crime against children,35.34562211981567
+2021.0,Indore,21.7,Crime against children,49.815668202764975
+2014.0,Jaipur,30.7,Crime against children,21.042345276872965
+2015.0,Jaipur,30.7,Crime against children,24.332247557003257
+2016.0,Jaipur,30.7,Crime against children,22.768729641693813
+2017.0,Jaipur,30.7,Crime against children,22.11726384364821
+2018.0,Jaipur,30.7,Crime against children,20.03257328990228
+2019.0,Jaipur,30.7,Crime against children,29.64169381107492
+2020.0,Jaipur,30.7,Crime against children,22.508143322475572
+2021.0,Jaipur,30.7,Crime against children,23.713355048859935
+2014.0,Kanpur,29.2,Crime against children,5.034246575342466
+2015.0,Kanpur,29.2,Crime against children,5.136986301369864
+2016.0,Kanpur,29.2,Crime against children,6.472602739726027
+2017.0,Kanpur,29.2,Crime against children,10.376712328767123
+2018.0,Kanpur,29.2,Crime against children,10.376712328767123
+2019.0,Kanpur,29.2,Crime against children,9.452054794520548
+2020.0,Kanpur,29.2,Crime against children,7.02054794520548
+2021.0,Kanpur,29.2,Crime against children,6.712328767123288
+2014.0,Kochi,21.2,Crime against children,3.5377358490566038
+2015.0,Kochi,21.2,Crime against children,3.5849056603773586
+2016.0,Kochi,21.2,Crime against children,4.056603773584905
+2017.0,Kochi,21.2,Crime against children,6.5094339622641515
+2018.0,Kochi,21.2,Crime against children,6.556603773584906
+2019.0,Kochi,21.2,Crime against children,8.30188679245283
+2020.0,Kochi,21.2,Crime against children,5.943396226415095
+2021.0,Kochi,21.2,Crime against children,6.5094339622641515
+2014.0,Kolkata,141.1,Crime against children,2.4946846208362863
+2015.0,Kolkata,141.1,Crime against children,2.700212615166549
+2016.0,Kolkata,141.1,Crime against children,2.246633593196315
+2017.0,Kolkata,141.1,Crime against children,4.557051736357193
+2018.0,Kolkata,141.1,Crime against children,4.068036853295535
+2019.0,Kolkata,141.1,Crime against children,1.9985825655563432
+2020.0,Kolkata,141.1,Crime against children,3.4443656980864636
+2021.0,Kolkata,141.1,Crime against children,3.5223245924875974
+2014.0,Kozhikode,20.3,Crime against children,3.3497536945812807
+2015.0,Kozhikode,20.3,Crime against children,4.334975369458128
+2016.0,Kozhikode,20.3,Crime against children,4.532019704433497
+2017.0,Kozhikode,20.3,Crime against children,6.502463054187192
+2018.0,Kozhikode,20.3,Crime against children,7.733990147783251
+2019.0,Kozhikode,20.3,Crime against children,9.80295566502463
+2020.0,Kozhikode,20.3,Crime against children,6.748768472906404
+2021.0,Kozhikode,20.3,Crime against children,7.980295566502463
+2014.0,Lucknow,29.0,Crime against children,5.0344827586206895
+2015.0,Lucknow,29.0,Crime against children,4.827586206896552
+2016.0,Lucknow,29.0,Crime against children,32.96551724137931
+2017.0,Lucknow,29.0,Crime against children,23.20689655172414
+2018.0,Lucknow,29.0,Crime against children,24.344827586206897
+2019.0,Lucknow,29.0,Crime against children,10.689655172413794
+2020.0,Lucknow,29.0,Crime against children,20.82758620689655
+2021.0,Lucknow,29.0,Crime against children,21.82758620689655
+2014.0,Mumbai,184.1,Crime against children,7.908745247148289
+2015.0,Mumbai,184.1,Crime against children,17.311243889190656
+2016.0,Mumbai,184.1,Crime against children,18.46822379141771
+2017.0,Mumbai,184.1,Crime against children,20.586637696903857
+2018.0,Mumbai,184.1,Crime against children,19.071156979902227
+2019.0,Mumbai,184.1,Crime against children,19.771863117870723
+2020.0,Mumbai,184.1,Crime against children,12.210755024443237
+2021.0,Mumbai,184.1,Crime against children,15.002715915263444
+2014.0,Nagpur,25.0,Crime against children,16.44
+2015.0,Nagpur,25.0,Crime against children,27.72
+2016.0,Nagpur,25.0,Crime against children,27.72
+2017.0,Nagpur,25.0,Crime against children,29.0
+2018.0,Nagpur,25.0,Crime against children,27.96
+2019.0,Nagpur,25.0,Crime against children,31.72
+2020.0,Nagpur,25.0,Crime against children,23.28
+2021.0,Nagpur,25.0,Crime against children,37.44
+2014.0,Patna,20.5,Crime against children,7.560975609756097
+2015.0,Patna,20.5,Crime against children,9.317073170731707
+2016.0,Patna,20.5,Crime against children,18.4390243902439
+2017.0,Patna,20.5,Crime against children,4.097560975609756
+2018.0,Patna,20.5,Crime against children,4.975609756097561
+2019.0,Patna,20.5,Crime against children,12.439024390243903
+2020.0,Patna,20.5,Crime against children,6.195121951219512
+2021.0,Patna,20.5,Crime against children,6.682926829268292
+2014.0,Pune,50.5,Crime against children,8.653465346534654
+2015.0,Pune,50.5,Crime against children,21.683168316831683
+2016.0,Pune,50.5,Crime against children,23.366336633663366
+2017.0,Pune,50.5,Crime against children,26.435643564356436
+2018.0,Pune,50.5,Crime against children,17.366336633663366
+2019.0,Pune,50.5,Crime against children,18.77227722772277
+2020.0,Pune,50.5,Crime against children,13.168316831683168
+2021.0,Pune,50.5,Crime against children,16.534653465346533
+2014.0,Surat,45.8,Crime against children,8.68995633187773
+2015.0,Surat,45.8,Crime against children,8.580786026200874
+2016.0,Surat,45.8,Crime against children,9.06113537117904
+2017.0,Surat,45.8,Crime against children,11.484716157205241
+2018.0,Surat,45.8,Crime against children,23.471615720524017
+2019.0,Surat,45.8,Crime against children,16.81222707423581
+2020.0,Surat,45.8,Crime against children,9.148471615720524
+2021.0,Surat,45.8,Crime against children,10.458515283842795
+2014.0,Ahmedabad,63.5,Crime Committed by Juveniles,3.3858267716535435
+2015.0,Ahmedabad,63.5,Crime Committed by Juveniles,2.47244094488189
+2016.0,Ahmedabad,63.5,Crime Committed by Juveniles,4.062992125984252
+2017.0,Ahmedabad,63.5,Crime Committed by Juveniles,6.377952755905512
+2018.0,Ahmedabad,63.5,Crime Committed by Juveniles,5.543307086614173
+2019.0,Ahmedabad,63.5,Crime Committed by Juveniles,4.692913385826771
+2020.0,Ahmedabad,63.5,Crime Committed by Juveniles,7.606299212598425
+2021.0,Ahmedabad,63.5,Crime Committed by Juveniles,6.078740157480315
+2014.0,Bengaluru,85.0,Crime Committed by Juveniles,1.2588235294117647
+2015.0,Bengaluru,85.0,Crime Committed by Juveniles,1.5058823529411764
+2016.0,Bengaluru,85.0,Crime Committed by Juveniles,2.411764705882353
+2017.0,Bengaluru,85.0,Crime Committed by Juveniles,2.5294117647058822
+2018.0,Bengaluru,85.0,Crime Committed by Juveniles,2.5764705882352943
+2019.0,Bengaluru,85.0,Crime Committed by Juveniles,1.9058823529411764
+2020.0,Bengaluru,85.0,Crime Committed by Juveniles,2.011764705882353
+2021.0,Bengaluru,85.0,Crime Committed by Juveniles,2.0823529411764707
+2014.0,Chennai,87.0,Crime Committed by Juveniles,3.0229885057471266
+2015.0,Chennai,87.0,Crime Committed by Juveniles,3.103448275862069
+2016.0,Chennai,87.0,Crime Committed by Juveniles,4.494252873563219
+2017.0,Chennai,87.0,Crime Committed by Juveniles,6.586206896551724
+2018.0,Chennai,87.0,Crime Committed by Juveniles,5.7701149425287355
+2019.0,Chennai,87.0,Crime Committed by Juveniles,7.436781609195402
+2020.0,Chennai,87.0,Crime Committed by Juveniles,8.885057471264368
+2021.0,Chennai,87.0,Crime Committed by Juveniles,5.7011494252873565
+2014.0,Coimbatore,21.5,Crime Committed by Juveniles,0.09302325581395349
+2015.0,Coimbatore,21.5,Crime Committed by Juveniles,2.511627906976744
+2016.0,Coimbatore,21.5,Crime Committed by Juveniles,0.8837209302325582
+2017.0,Coimbatore,21.5,Crime Committed by Juveniles,1.5813953488372092
+2018.0,Coimbatore,21.5,Crime Committed by Juveniles,2.883720930232558
+2019.0,Coimbatore,21.5,Crime Committed by Juveniles,1.3953488372093024
+2020.0,Coimbatore,21.5,Crime Committed by Juveniles,1.255813953488372
+2021.0,Coimbatore,21.5,Crime Committed by Juveniles,0.8837209302325582
+2014.0,Delhi,163.1,Crime Committed by Juveniles,10.245248313917843
+2015.0,Delhi,163.1,Crime Committed by Juveniles,12.145922746781116
+2016.0,Delhi,163.1,Crime Committed by Juveniles,14.518700183936236
+2017.0,Delhi,163.1,Crime Committed by Juveniles,16.413243408951566
+2018.0,Delhi,163.1,Crime Committed by Juveniles,14.641324340895157
+2019.0,Delhi,163.1,Crime Committed by Juveniles,16.922133660331085
+2020.0,Delhi,163.1,Crime Committed by Juveniles,14.935622317596566
+2021.0,Delhi,163.1,Crime Committed by Juveniles,16.051502145922747
+2014.0,Ghaziabad,23.6,Crime Committed by Juveniles,1.059322033898305
+2015.0,Ghaziabad,23.6,Crime Committed by Juveniles,0.635593220338983
+2016.0,Ghaziabad,23.6,Crime Committed by Juveniles,0.2966101694915254
+2017.0,Ghaziabad,23.6,Crime Committed by Juveniles,0.847457627118644
+2018.0,Ghaziabad,23.6,Crime Committed by Juveniles,0.0
+2019.0,Ghaziabad,23.6,Crime Committed by Juveniles,0.0
+2020.0,Ghaziabad,23.6,Crime Committed by Juveniles,0.0
+2021.0,Ghaziabad,23.6,Crime Committed by Juveniles,0.0
+2014.0,Hyderabad,77.5,Crime Committed by Juveniles,2.7870967741935484
+2015.0,Hyderabad,77.5,Crime Committed by Juveniles,1.2258064516129032
+2016.0,Hyderabad,77.5,Crime Committed by Juveniles,1.5612903225806452
+2017.0,Hyderabad,77.5,Crime Committed by Juveniles,3.1483870967741936
+2018.0,Hyderabad,77.5,Crime Committed by Juveniles,4.683870967741935
+2019.0,Hyderabad,77.5,Crime Committed by Juveniles,4.516129032258065
+2020.0,Hyderabad,77.5,Crime Committed by Juveniles,2.2193548387096773
+2021.0,Hyderabad,77.5,Crime Committed by Juveniles,2.541935483870968
+2014.0,Indore,21.7,Crime Committed by Juveniles,16.22119815668203
+2015.0,Indore,21.7,Crime Committed by Juveniles,23.27188940092166
+2016.0,Indore,21.7,Crime Committed by Juveniles,18.617511520737327
+2017.0,Indore,21.7,Crime Committed by Juveniles,13.824884792626728
+2018.0,Indore,21.7,Crime Committed by Juveniles,16.95852534562212
+2019.0,Indore,21.7,Crime Committed by Juveniles,16.359447004608295
+2020.0,Indore,21.7,Crime Committed by Juveniles,12.949308755760368
+2021.0,Indore,21.7,Crime Committed by Juveniles,9.539170506912443
+2014.0,Jaipur,30.7,Crime Committed by Juveniles,11.661237785016286
+2015.0,Jaipur,30.7,Crime Committed by Juveniles,8.794788273615636
+2016.0,Jaipur,30.7,Crime Committed by Juveniles,8.306188925081434
+2017.0,Jaipur,30.7,Crime Committed by Juveniles,8.892508143322475
+2018.0,Jaipur,30.7,Crime Committed by Juveniles,10.032573289902281
+2019.0,Jaipur,30.7,Crime Committed by Juveniles,10.814332247557003
+2020.0,Jaipur,30.7,Crime Committed by Juveniles,6.384364820846906
+2021.0,Jaipur,30.7,Crime Committed by Juveniles,7.2312703583061895
+2014.0,Kanpur,29.2,Crime Committed by Juveniles,4.486301369863014
+2015.0,Kanpur,29.2,Crime Committed by Juveniles,0.273972602739726
+2016.0,Kanpur,29.2,Crime Committed by Juveniles,0.4794520547945206
+2017.0,Kanpur,29.2,Crime Committed by Juveniles,0.3082191780821918
+2018.0,Kanpur,29.2,Crime Committed by Juveniles,0.3082191780821918
+2019.0,Kanpur,29.2,Crime Committed by Juveniles,0.3424657534246575
+2020.0,Kanpur,29.2,Crime Committed by Juveniles,0.5136986301369864
+2021.0,Kanpur,29.2,Crime Committed by Juveniles,0.4109589041095891
+2014.0,Kochi,21.2,Crime Committed by Juveniles,1.650943396226415
+2015.0,Kochi,21.2,Crime Committed by Juveniles,1.9811320754716981
+2016.0,Kochi,21.2,Crime Committed by Juveniles,2.7358490566037736
+2017.0,Kochi,21.2,Crime Committed by Juveniles,2.452830188679245
+2018.0,Kochi,21.2,Crime Committed by Juveniles,0.5660377358490566
+2019.0,Kochi,21.2,Crime Committed by Juveniles,0.4716981132075472
+2020.0,Kochi,21.2,Crime Committed by Juveniles,0.9433962264150944
+2021.0,Kochi,21.2,Crime Committed by Juveniles,1.0377358490566038
+2014.0,Kolkata,141.1,Crime Committed by Juveniles,0.4677533664068037
+2015.0,Kolkata,141.1,Crime Committed by Juveniles,0.36853295535081504
+2016.0,Kolkata,141.1,Crime Committed by Juveniles,0.1346562721474132
+2017.0,Kolkata,141.1,Crime Committed by Juveniles,0.24805102763997167
+2018.0,Kolkata,141.1,Crime Committed by Juveniles,0.1630049610205528
+2019.0,Kolkata,141.1,Crime Committed by Juveniles,0.2551381998582566
+2020.0,Kolkata,141.1,Crime Committed by Juveniles,0.6874557051736357
+2021.0,Kolkata,141.1,Crime Committed by Juveniles,0.17717930545712263
+2014.0,Kozhikode,20.3,Crime Committed by Juveniles,2.3645320197044333
+2015.0,Kozhikode,20.3,Crime Committed by Juveniles,3.842364532019704
+2016.0,Kozhikode,20.3,Crime Committed by Juveniles,3.0541871921182264
+2017.0,Kozhikode,20.3,Crime Committed by Juveniles,1.8719211822660098
+2018.0,Kozhikode,20.3,Crime Committed by Juveniles,1.2807881773399015
+2019.0,Kozhikode,20.3,Crime Committed by Juveniles,1.083743842364532
+2020.0,Kozhikode,20.3,Crime Committed by Juveniles,0.3940886699507389
+2021.0,Kozhikode,20.3,Crime Committed by Juveniles,1.083743842364532
+2014.0,Lucknow,29.0,Crime Committed by Juveniles,0.0
+2015.0,Lucknow,29.0,Crime Committed by Juveniles,0.7586206896551724
+2016.0,Lucknow,29.0,Crime Committed by Juveniles,1.4137931034482758
+2017.0,Lucknow,29.0,Crime Committed by Juveniles,0.5862068965517241
+2018.0,Lucknow,29.0,Crime Committed by Juveniles,3.3448275862068964
+2019.0,Lucknow,29.0,Crime Committed by Juveniles,2.1724137931034484
+2020.0,Lucknow,29.0,Crime Committed by Juveniles,4.137931034482759
+2021.0,Lucknow,29.0,Crime Committed by Juveniles,3.103448275862069
+2014.0,Mumbai,184.1,Crime Committed by Juveniles,5.029875067897882
+2015.0,Mumbai,184.1,Crime Committed by Juveniles,5.095057034220533
+2016.0,Mumbai,184.1,Crime Committed by Juveniles,5.138511678435633
+2017.0,Mumbai,184.1,Crime Committed by Juveniles,4.964693101575231
+2018.0,Mumbai,184.1,Crime Committed by Juveniles,4.687669744703966
+2019.0,Mumbai,184.1,Crime Committed by Juveniles,3.3188484519283
+2020.0,Mumbai,184.1,Crime Committed by Juveniles,1.8033677349266704
+2021.0,Mumbai,184.1,Crime Committed by Juveniles,1.8033677349266704
+2014.0,Nagpur,25.0,Crime Committed by Juveniles,9.56
+2015.0,Nagpur,25.0,Crime Committed by Juveniles,11.0
+2016.0,Nagpur,25.0,Crime Committed by Juveniles,16.16
+2017.0,Nagpur,25.0,Crime Committed by Juveniles,19.52
+2018.0,Nagpur,25.0,Crime Committed by Juveniles,12.2
+2019.0,Nagpur,25.0,Crime Committed by Juveniles,14.76
+2020.0,Nagpur,25.0,Crime Committed by Juveniles,10.96
+2021.0,Nagpur,25.0,Crime Committed by Juveniles,14.04
+2014.0,Patna,20.5,Crime Committed by Juveniles,6.097560975609756
+2015.0,Patna,20.5,Crime Committed by Juveniles,6.975609756097561
+2016.0,Patna,20.5,Crime Committed by Juveniles,5.219512195121951
+2017.0,Patna,20.5,Crime Committed by Juveniles,7.853658536585366
+2018.0,Patna,20.5,Crime Committed by Juveniles,0.43902439024390244
+2019.0,Patna,20.5,Crime Committed by Juveniles,0.7317073170731707
+2020.0,Patna,20.5,Crime Committed by Juveniles,1.3658536585365855
+2021.0,Patna,20.5,Crime Committed by Juveniles,0.43902439024390244
+2014.0,Pune,50.5,Crime Committed by Juveniles,8.653465346534654
+2015.0,Pune,50.5,Crime Committed by Juveniles,12.891089108910892
+2016.0,Pune,50.5,Crime Committed by Juveniles,14.831683168316832
+2017.0,Pune,50.5,Crime Committed by Juveniles,14.158415841584159
+2018.0,Pune,50.5,Crime Committed by Juveniles,9.564356435643564
+2019.0,Pune,50.5,Crime Committed by Juveniles,5.920792079207921
+2020.0,Pune,50.5,Crime Committed by Juveniles,4.811881188118812
+2021.0,Pune,50.5,Crime Committed by Juveniles,5.702970297029703
+2014.0,Surat,45.8,Crime Committed by Juveniles,6.157205240174673
+2015.0,Surat,45.8,Crime Committed by Juveniles,5.764192139737991
+2016.0,Surat,45.8,Crime Committed by Juveniles,4.737991266375547
+2017.0,Surat,45.8,Crime Committed by Juveniles,9.519650655021834
+2018.0,Surat,45.8,Crime Committed by Juveniles,8.930131004366812
+2019.0,Surat,45.8,Crime Committed by Juveniles,11.26637554585153
+2020.0,Surat,45.8,Crime Committed by Juveniles,6.506550218340612
+2021.0,Surat,45.8,Crime Committed by Juveniles,7.751091703056769
+2014.0,Ahmedabad,63.5,Crime against Senior Citizen,1.0708661417322836
+2015.0,Ahmedabad,63.5,Crime against Senior Citizen,0.2677165354330709
+2016.0,Ahmedabad,63.5,Crime against Senior Citizen,5.700787401574803
+2017.0,Ahmedabad,63.5,Crime against Senior Citizen,8.409448818897637
+2018.0,Ahmedabad,63.5,Crime against Senior Citizen,11.543307086614174
+2019.0,Ahmedabad,63.5,Crime against Senior Citizen,12.503937007874017
+2020.0,Ahmedabad,63.5,Crime against Senior Citizen,11.165354330708661
+2021.0,Ahmedabad,63.5,Crime against Senior Citizen,3.84251968503937
+2014.0,Bengaluru,85.0,Crime against Senior Citizen,1.0470588235294118
+2015.0,Bengaluru,85.0,Crime against Senior Citizen,1.1764705882352942
+2016.0,Bengaluru,85.0,Crime against Senior Citizen,1.8352941176470587
+2017.0,Bengaluru,85.0,Crime against Senior Citizen,2.164705882352941
+2018.0,Bengaluru,85.0,Crime against Senior Citizen,3.164705882352941
+2019.0,Bengaluru,85.0,Crime against Senior Citizen,2.458823529411765
+2020.0,Bengaluru,85.0,Crime against Senior Citizen,2.4705882352941178
+2021.0,Bengaluru,85.0,Crime against Senior Citizen,2.788235294117647
+2014.0,Chennai,87.0,Crime against Senior Citizen,2.5402298850574714
+2015.0,Chennai,87.0,Crime against Senior Citizen,2.3333333333333335
+2016.0,Chennai,87.0,Crime against Senior Citizen,2.413793103448276
+2017.0,Chennai,87.0,Crime against Senior Citizen,5.563218390804598
+2018.0,Chennai,87.0,Crime against Senior Citizen,5.689655172413793
+2019.0,Chennai,87.0,Crime against Senior Citizen,6.344827586206897
+2020.0,Chennai,87.0,Crime against Senior Citizen,3.689655172413793
+2021.0,Chennai,87.0,Crime against Senior Citizen,4.862068965517241
+2014.0,Coimbatore,21.5,Crime against Senior Citizen,0.6046511627906976
+2015.0,Coimbatore,21.5,Crime against Senior Citizen,2.4186046511627906
+2016.0,Coimbatore,21.5,Crime against Senior Citizen,10.837209302325581
+2017.0,Coimbatore,21.5,Crime against Senior Citizen,5.255813953488372
+2018.0,Coimbatore,21.5,Crime against Senior Citizen,4.651162790697675
+2019.0,Coimbatore,21.5,Crime against Senior Citizen,3.0697674418604652
+2020.0,Coimbatore,21.5,Crime against Senior Citizen,1.4883720930232558
+2021.0,Coimbatore,21.5,Crime against Senior Citizen,2.0930232558139537
+2014.0,Delhi,163.1,Crime against Senior Citizen,5.36480686695279
+2015.0,Delhi,163.1,Crime against Senior Citizen,7.210300429184549
+2016.0,Delhi,163.1,Crime against Senior Citizen,3.9362354383813614
+2017.0,Delhi,163.1,Crime against Senior Citizen,4.512568976088289
+2018.0,Delhi,163.1,Crime against Senior Citizen,4.721030042918455
+2019.0,Delhi,163.1,Crime against Senior Citizen,6.597179644389945
+2020.0,Delhi,163.1,Crime against Senior Citizen,5.554874310239117
+2021.0,Delhi,163.1,Crime against Senior Citizen,7.148988350705089
+2014.0,Ghaziabad,23.6,Crime against Senior Citizen,0.2966101694915254
+2015.0,Ghaziabad,23.6,Crime against Senior Citizen,0.1694915254237288
+2016.0,Ghaziabad,23.6,Crime against Senior Citizen,0.0
+2017.0,Ghaziabad,23.6,Crime against Senior Citizen,0.0423728813559322
+2018.0,Ghaziabad,23.6,Crime against Senior Citizen,0.0423728813559322
+2019.0,Ghaziabad,23.6,Crime against Senior Citizen,0.0
+2020.0,Ghaziabad,23.6,Crime against Senior Citizen,0.0
+2021.0,Ghaziabad,23.6,Crime against Senior Citizen,0.0
+2014.0,Hyderabad,77.5,Crime against Senior Citizen,1.0580645161290323
+2015.0,Hyderabad,77.5,Crime against Senior Citizen,0.6193548387096774
+2016.0,Hyderabad,77.5,Crime against Senior Citizen,0.5161290322580645
+2017.0,Hyderabad,77.5,Crime against Senior Citizen,0.18064516129032257
+2018.0,Hyderabad,77.5,Crime against Senior Citizen,0.3741935483870968
+2019.0,Hyderabad,77.5,Crime against Senior Citizen,2.490322580645161
+2020.0,Hyderabad,77.5,Crime against Senior Citizen,2.193548387096774
+2021.0,Hyderabad,77.5,Crime against Senior Citizen,4.051612903225807
+2014.0,Indore,21.7,Crime against Senior Citizen,3.4101382488479266
+2015.0,Indore,21.7,Crime against Senior Citizen,3.087557603686636
+2016.0,Indore,21.7,Crime against Senior Citizen,2.672811059907834
+2017.0,Indore,21.7,Crime against Senior Citizen,3.1797235023041477
+2018.0,Indore,21.7,Crime against Senior Citizen,5.253456221198157
+2019.0,Indore,21.7,Crime against Senior Citizen,4.6082949308755765
+2020.0,Indore,21.7,Crime against Senior Citizen,4.377880184331797
+2021.0,Indore,21.7,Crime against Senior Citizen,5.714285714285714
+2014.0,Jaipur,30.7,Crime against Senior Citizen,3.811074918566775
+2015.0,Jaipur,30.7,Crime against Senior Citizen,3.8436482084690553
+2016.0,Jaipur,30.7,Crime against Senior Citizen,3.5179153094462543
+2017.0,Jaipur,30.7,Crime against Senior Citizen,0.8469055374592834
+2018.0,Jaipur,30.7,Crime against Senior Citizen,0.5537459283387622
+2019.0,Jaipur,30.7,Crime against Senior Citizen,0.7817589576547231
+2020.0,Jaipur,30.7,Crime against Senior Citizen,5.114006514657981
+2021.0,Jaipur,30.7,Crime against Senior Citizen,4.006514657980456
+2014.0,Kanpur,29.2,Crime against Senior Citizen,0.0
+2015.0,Kanpur,29.2,Crime against Senior Citizen,0.0
+2016.0,Kanpur,29.2,Crime against Senior Citizen,0.0
+2017.0,Kanpur,29.2,Crime against Senior Citizen,0.0
+2018.0,Kanpur,29.2,Crime against Senior Citizen,0.0
+2019.0,Kanpur,29.2,Crime against Senior Citizen,0.0
+2020.0,Kanpur,29.2,Crime against Senior Citizen,0.0
+2021.0,Kanpur,29.2,Crime against Senior Citizen,0.0
+2014.0,Kochi,21.2,Crime against Senior Citizen,0.14150943396226415
+2015.0,Kochi,21.2,Crime against Senior Citizen,0.42452830188679247
+2016.0,Kochi,21.2,Crime against Senior Citizen,0.6132075471698113
+2017.0,Kochi,21.2,Crime against Senior Citizen,1.2735849056603774
+2018.0,Kochi,21.2,Crime against Senior Citizen,1.6037735849056605
+2019.0,Kochi,21.2,Crime against Senior Citizen,0.5188679245283019
+2020.0,Kochi,21.2,Crime against Senior Citizen,3.160377358490566
+2021.0,Kochi,21.2,Crime against Senior Citizen,1.3207547169811322
+2014.0,Kolkata,141.1,Crime against Senior Citizen,0.11339475549255848
+2015.0,Kolkata,141.1,Crime against Senior Citizen,0.1630049610205528
+2016.0,Kolkata,141.1,Crime against Senior Citizen,0.18426647767540752
+2017.0,Kolkata,141.1,Crime against Senior Citizen,0.2551381998582566
+2018.0,Kolkata,141.1,Crime against Senior Citizen,0.3118355776045358
+2019.0,Kolkata,141.1,Crime against Senior Citizen,0.09922041105598867
+2020.0,Kolkata,141.1,Crime against Senior Citizen,0.14174344436569808
+2021.0,Kolkata,141.1,Crime against Senior Citizen,0.01417434443656981
+2014.0,Kozhikode,20.3,Crime against Senior Citizen,0.9852216748768473
+2015.0,Kozhikode,20.3,Crime against Senior Citizen,0.9852216748768473
+2016.0,Kozhikode,20.3,Crime against Senior Citizen,0.7389162561576355
+2017.0,Kozhikode,20.3,Crime against Senior Citizen,0.44334975369458124
+2018.0,Kozhikode,20.3,Crime against Senior Citizen,1.8226600985221675
+2019.0,Kozhikode,20.3,Crime against Senior Citizen,1.3300492610837438
+2020.0,Kozhikode,20.3,Crime against Senior Citizen,5.566502463054187
+2021.0,Kozhikode,20.3,Crime against Senior Citizen,2.610837438423645
+2014.0,Lucknow,29.0,Crime against Senior Citizen,0.1724137931034483
+2015.0,Lucknow,29.0,Crime against Senior Citizen,0.06896551724137931
+2016.0,Lucknow,29.0,Crime against Senior Citizen,0.5172413793103449
+2017.0,Lucknow,29.0,Crime against Senior Citizen,0.5517241379310345
+2018.0,Lucknow,29.0,Crime against Senior Citizen,0.2413793103448276
+2019.0,Lucknow,29.0,Crime against Senior Citizen,0.27586206896551724
+2020.0,Lucknow,29.0,Crime against Senior Citizen,1.5862068965517242
+2021.0,Lucknow,29.0,Crime against Senior Citizen,1.793103448275862
+2014.0,Mumbai,184.1,Crime against Senior Citizen,5.1276480173818575
+2015.0,Mumbai,184.1,Crime against Senior Citizen,6.089082020640956
+2016.0,Mumbai,184.1,Crime against Senior Citizen,6.61596958174905
+2017.0,Mumbai,184.1,Crime against Senior Citizen,6.056491037479631
+2018.0,Mumbai,184.1,Crime against Senior Citizen,5.665399239543726
+2019.0,Mumbai,184.1,Crime against Senior Citizen,6.686583378598588
+2020.0,Mumbai,184.1,Crime against Senior Citizen,4.584464964693102
+2021.0,Mumbai,184.1,Crime against Senior Citizen,5.361216730038023
+2014.0,Nagpur,25.0,Crime against Senior Citizen,4.8
+2015.0,Nagpur,25.0,Crime against Senior Citizen,7.08
+2016.0,Nagpur,25.0,Crime against Senior Citizen,7.64
+2017.0,Nagpur,25.0,Crime against Senior Citizen,4.84
+2018.0,Nagpur,25.0,Crime against Senior Citizen,8.28
+2019.0,Nagpur,25.0,Crime against Senior Citizen,4.24
+2020.0,Nagpur,25.0,Crime against Senior Citizen,5.88
+2021.0,Nagpur,25.0,Crime against Senior Citizen,10.0
+2014.0,Patna,20.5,Crime against Senior Citizen,0.1951219512195122
+2015.0,Patna,20.5,Crime against Senior Citizen,0.0
+2016.0,Patna,20.5,Crime against Senior Citizen,0.0
+2017.0,Patna,20.5,Crime against Senior Citizen,0.34146341463414637
+2018.0,Patna,20.5,Crime against Senior Citizen,0.0
+2019.0,Patna,20.5,Crime against Senior Citizen,0.0
+2020.0,Patna,20.5,Crime against Senior Citizen,0.0
+2021.0,Patna,20.5,Crime against Senior Citizen,0.0
+2014.0,Pune,50.5,Crime against Senior Citizen,5.287128712871287
+2015.0,Pune,50.5,Crime against Senior Citizen,3.1683168316831685
+2016.0,Pune,50.5,Crime against Senior Citizen,3.742574257425743
+2017.0,Pune,50.5,Crime against Senior Citizen,3.5247524752475248
+2018.0,Pune,50.5,Crime against Senior Citizen,3.3465346534653464
+2019.0,Pune,50.5,Crime against Senior Citizen,4.435643564356436
+2020.0,Pune,50.5,Crime against Senior Citizen,2.4356435643564356
+2021.0,Pune,50.5,Crime against Senior Citizen,2.9702970297029703
+2014.0,Surat,45.8,Crime against Senior Citizen,2.4890829694323147
+2015.0,Surat,45.8,Crime against Senior Citizen,3.4716157205240177
+2016.0,Surat,45.8,Crime against Senior Citizen,2.4017467248908297
+2017.0,Surat,45.8,Crime against Senior Citizen,2.8602620087336246
+2018.0,Surat,45.8,Crime against Senior Citizen,3.51528384279476
+2019.0,Surat,45.8,Crime against Senior Citizen,5.065502183406114
+2020.0,Surat,45.8,Crime against Senior Citizen,1.5065502183406114
+2021.0,Surat,45.8,Crime against Senior Citizen,1.4410480349344978
+2014.0,Ahmedabad,63.5,Crime against SC,1.0393700787401574
+2015.0,Ahmedabad,63.5,Crime against SC,0.9448818897637795
+2016.0,Ahmedabad,63.5,Crime against SC,1.5118110236220472
+2017.0,Ahmedabad,63.5,Crime against SC,1.874015748031496
+2018.0,Ahmedabad,63.5,Crime against SC,2.283464566929134
+2019.0,Ahmedabad,63.5,Crime against SC,2.5354330708661417
+2020.0,Ahmedabad,63.5,Crime against SC,2.141732283464567
+2021.0,Ahmedabad,63.5,Crime against SC,2.645669291338583
+2014.0,Bengaluru,85.0,Crime against SC,1.8705882352941177
+2015.0,Bengaluru,85.0,Crime against SC,1.6470588235294117
+2016.0,Bengaluru,85.0,Crime against SC,2.4352941176470586
+2017.0,Bengaluru,85.0,Crime against SC,2.458823529411765
+2018.0,Bengaluru,85.0,Crime against SC,1.6588235294117648
+2019.0,Bengaluru,85.0,Crime against SC,1.9529411764705882
+2020.0,Bengaluru,85.0,Crime against SC,1.5647058823529412
+2021.0,Bengaluru,85.0,Crime against SC,1.9529411764705882
+2014.0,Chennai,87.0,Crime against SC,0.1839080459770115
+2015.0,Chennai,87.0,Crime against SC,0.14942528735632185
+2016.0,Chennai,87.0,Crime against SC,0.11494252873563218
+2017.0,Chennai,87.0,Crime against SC,0.16091954022988506
+2018.0,Chennai,87.0,Crime against SC,0.05747126436781609
+2019.0,Chennai,87.0,Crime against SC,0.09195402298850575
+2020.0,Chennai,87.0,Crime against SC,0.13793103448275862
+2021.0,Chennai,87.0,Crime against SC,0.26436781609195403
+2014.0,Coimbatore,21.5,Crime against SC,0.4186046511627907
+2015.0,Coimbatore,21.5,Crime against SC,0.13953488372093023
+2016.0,Coimbatore,21.5,Crime against SC,0.13953488372093023
+2017.0,Coimbatore,21.5,Crime against SC,0.046511627906976744
+2018.0,Coimbatore,21.5,Crime against SC,0.046511627906976744
+2019.0,Coimbatore,21.5,Crime against SC,0.0
+2020.0,Coimbatore,21.5,Crime against SC,0.13953488372093023
+2021.0,Coimbatore,21.5,Crime against SC,0.8372093023255814
+2014.0,Delhi,163.1,Crime against SC,0.4291845493562232
+2015.0,Delhi,163.1,Crime against SC,0.2023298589822195
+2016.0,Delhi,163.1,Crime against SC,0.2820355610055181
+2017.0,Delhi,163.1,Crime against SC,0.20846106683016555
+2018.0,Delhi,163.1,Crime against SC,0.15941140404659718
+2019.0,Delhi,163.1,Crime against SC,0.42305334150827717
+2020.0,Delhi,163.1,Crime against SC,0.404659717964439
+2021.0,Delhi,163.1,Crime against SC,0.797057020232986
+2014.0,Ghaziabad,23.6,Crime against SC,1.6101694915254237
+2015.0,Ghaziabad,23.6,Crime against SC,1.6525423728813557
+2016.0,Ghaziabad,23.6,Crime against SC,2.711864406779661
+2017.0,Ghaziabad,23.6,Crime against SC,1.694915254237288
+2018.0,Ghaziabad,23.6,Crime against SC,1.7372881355932202
+2019.0,Ghaziabad,23.6,Crime against SC,1.7796610169491525
+2020.0,Ghaziabad,23.6,Crime against SC,0.9322033898305084
+2021.0,Ghaziabad,23.6,Crime against SC,1.7796610169491525
+2014.0,Hyderabad,77.5,Crime against SC,2.064516129032258
+2015.0,Hyderabad,77.5,Crime against SC,1.4967741935483871
+2016.0,Hyderabad,77.5,Crime against SC,1.793548387096774
+2017.0,Hyderabad,77.5,Crime against SC,1.0064516129032257
+2018.0,Hyderabad,77.5,Crime against SC,1.5870967741935484
+2019.0,Hyderabad,77.5,Crime against SC,1.5096774193548388
+2020.0,Hyderabad,77.5,Crime against SC,1.6387096774193548
+2021.0,Hyderabad,77.5,Crime against SC,1.3419354838709678
+2014.0,Indore,21.7,Crime against SC,2.7649769585253456
+2015.0,Indore,21.7,Crime against SC,2.5345622119815667
+2016.0,Indore,21.7,Crime against SC,1.6589861751152075
+2017.0,Indore,21.7,Crime against SC,1.6129032258064517
+2018.0,Indore,21.7,Crime against SC,1.7511520737327189
+2019.0,Indore,21.7,Crime against SC,1.566820276497696
+2020.0,Indore,21.7,Crime against SC,1.8433179723502304
+2021.0,Indore,21.7,Crime against SC,2.3963133640553
+2014.0,Jaipur,30.7,Crime against SC,9.674267100977199
+2015.0,Jaipur,30.7,Crime against SC,9.674267100977199
+2016.0,Jaipur,30.7,Crime against SC,7.133550488599349
+2017.0,Jaipur,30.7,Crime against SC,2.736156351791531
+2018.0,Jaipur,30.7,Crime against SC,5.863192182410423
+2019.0,Jaipur,30.7,Crime against SC,11.172638436482085
+2020.0,Jaipur,30.7,Crime against SC,7.6547231270358305
+2021.0,Jaipur,30.7,Crime against SC,11.758957654723128
+2014.0,Kanpur,29.2,Crime against SC,5.0
+2015.0,Kanpur,29.2,Crime against SC,3.219178082191781
+2016.0,Kanpur,29.2,Crime against SC,3.664383561643836
+2017.0,Kanpur,29.2,Crime against SC,4.691780821917808
+2018.0,Kanpur,29.2,Crime against SC,4.691780821917808
+2019.0,Kanpur,29.2,Crime against SC,5.787671232876712
+2020.0,Kanpur,29.2,Crime against SC,5.582191780821918
+2021.0,Kanpur,29.2,Crime against SC,5.6506849315068495
+2014.0,Kochi,21.2,Crime against SC,1.2264150943396226
+2015.0,Kochi,21.2,Crime against SC,0.9433962264150944
+2016.0,Kochi,21.2,Crime against SC,1.650943396226415
+2017.0,Kochi,21.2,Crime against SC,0.9905660377358491
+2018.0,Kochi,21.2,Crime against SC,0.9433962264150944
+2019.0,Kochi,21.2,Crime against SC,0.7547169811320755
+2020.0,Kochi,21.2,Crime against SC,0.8962264150943396
+2021.0,Kochi,21.2,Crime against SC,0.6132075471698113
+2014.0,Kolkata,141.1,Crime against SC,0.06378454996456415
+2015.0,Kolkata,141.1,Crime against SC,0.07087172218284904
+2016.0,Kolkata,141.1,Crime against SC,0.06378454996456415
+2017.0,Kolkata,141.1,Crime against SC,0.09922041105598867
+2018.0,Kolkata,141.1,Crime against SC,0.09922041105598867
+2019.0,Kolkata,141.1,Crime against SC,0.07795889440113395
+2020.0,Kolkata,141.1,Crime against SC,0.1275690999291283
+2021.0,Kolkata,141.1,Crime against SC,0.1275690999291283
+2014.0,Kozhikode,20.3,Crime against SC,0.8866995073891625
+2015.0,Kozhikode,20.3,Crime against SC,1.2807881773399015
+2016.0,Kozhikode,20.3,Crime against SC,1.4285714285714286
+2017.0,Kozhikode,20.3,Crime against SC,1.5270935960591132
+2018.0,Kozhikode,20.3,Crime against SC,1.2807881773399015
+2019.0,Kozhikode,20.3,Crime against SC,1.1822660098522166
+2020.0,Kozhikode,20.3,Crime against SC,0.9852216748768473
+2021.0,Kozhikode,20.3,Crime against SC,1.5270935960591132
+2014.0,Lucknow,29.0,Crime against SC,2.103448275862069
+2015.0,Lucknow,29.0,Crime against SC,5.0344827586206895
+2016.0,Lucknow,29.0,Crime against SC,9.03448275862069
+2017.0,Lucknow,29.0,Crime against SC,10.310344827586206
+2018.0,Lucknow,29.0,Crime against SC,7.896551724137931
+2019.0,Lucknow,29.0,Crime against SC,8.068965517241379
+2020.0,Lucknow,29.0,Crime against SC,10.172413793103448
+2021.0,Lucknow,29.0,Crime against SC,9.241379310344827
+2014.0,Mumbai,184.1,Crime against SC,0.19011406844106465
+2015.0,Mumbai,184.1,Crime against SC,0.1846822379141771
+2016.0,Mumbai,184.1,Crime against SC,0.16295491580662683
+2017.0,Mumbai,184.1,Crime against SC,0.1683867463335144
+2018.0,Mumbai,184.1,Crime against SC,0.17925040738728953
+2019.0,Mumbai,184.1,Crime against SC,0.2498642042368278
+2020.0,Mumbai,184.1,Crime against SC,0.19554589896795221
+2021.0,Mumbai,184.1,Crime against SC,0.2552960347637154
+2014.0,Nagpur,25.0,Crime against SC,1.32
+2015.0,Nagpur,25.0,Crime against SC,1.08
+2016.0,Nagpur,25.0,Crime against SC,1.16
+2017.0,Nagpur,25.0,Crime against SC,0.84
+2018.0,Nagpur,25.0,Crime against SC,0.96
+2019.0,Nagpur,25.0,Crime against SC,1.92
+2020.0,Nagpur,25.0,Crime against SC,1.68
+2021.0,Nagpur,25.0,Crime against SC,1.4
+2014.0,Patna,20.5,Crime against SC,12.146341463414634
+2015.0,Patna,20.5,Crime against SC,15.658536585365853
+2016.0,Patna,20.5,Crime against SC,11.75609756097561
+2017.0,Patna,20.5,Crime against SC,10.097560975609756
+2018.0,Patna,20.5,Crime against SC,4.7317073170731705
+2019.0,Patna,20.5,Crime against SC,5.317073170731708
+2020.0,Patna,20.5,Crime against SC,3.4634146341463414
+2021.0,Patna,20.5,Crime against SC,3.2195121951219514
+2014.0,Pune,50.5,Crime against SC,1.0891089108910892
+2015.0,Pune,50.5,Crime against SC,0.37623762376237624
+2016.0,Pune,50.5,Crime against SC,0.8118811881188119
+2017.0,Pune,50.5,Crime against SC,0.5544554455445545
+2018.0,Pune,50.5,Crime against SC,0.6138613861386139
+2019.0,Pune,50.5,Crime against SC,0.7128712871287128
+2020.0,Pune,50.5,Crime against SC,0.5346534653465347
+2021.0,Pune,50.5,Crime against SC,0.6336633663366337
+2014.0,Surat,45.8,Crime against SC,0.13100436681222707
+2015.0,Surat,45.8,Crime against SC,0.24017467248908297
+2016.0,Surat,45.8,Crime against SC,0.4148471615720524
+2017.0,Surat,45.8,Crime against SC,0.6986899563318778
+2018.0,Surat,45.8,Crime against SC,0.6331877729257642
+2019.0,Surat,45.8,Crime against SC,0.7423580786026202
+2020.0,Surat,45.8,Crime against SC,0.4366812227074236
+2021.0,Surat,45.8,Crime against SC,0.48034934497816595
+2014.0,Ahmedabad,63.5,Crime against ST,0.09448818897637795
+2015.0,Ahmedabad,63.5,Crime against ST,0.14173228346456693
+2016.0,Ahmedabad,63.5,Crime against ST,0.15748031496062992
+2017.0,Ahmedabad,63.5,Crime against ST,0.09448818897637795
+2018.0,Ahmedabad,63.5,Crime against ST,0.14173228346456693
+2019.0,Ahmedabad,63.5,Crime against ST,0.15748031496062992
+2020.0,Ahmedabad,63.5,Crime against ST,0.14173228346456693
+2021.0,Ahmedabad,63.5,Crime against ST,0.2677165354330709
+2014.0,Bengaluru,85.0,Crime against ST,0.09411764705882353
+2015.0,Bengaluru,85.0,Crime against ST,0.10588235294117647
+2016.0,Bengaluru,85.0,Crime against ST,0.11764705882352941
+2017.0,Bengaluru,85.0,Crime against ST,0.10588235294117647
+2018.0,Bengaluru,85.0,Crime against ST,0.16470588235294117
+2019.0,Bengaluru,85.0,Crime against ST,0.1411764705882353
+2020.0,Bengaluru,85.0,Crime against ST,0.15294117647058825
+2021.0,Bengaluru,85.0,Crime against ST,0.1411764705882353
+2014.0,Chennai,87.0,Crime against ST,0.0
+2015.0,Chennai,87.0,Crime against ST,0.0
+2016.0,Chennai,87.0,Crime against ST,0.0
+2017.0,Chennai,87.0,Crime against ST,0.0
+2018.0,Chennai,87.0,Crime against ST,0.011494252873563218
+2019.0,Chennai,87.0,Crime against ST,0.0
+2020.0,Chennai,87.0,Crime against ST,0.0
+2021.0,Chennai,87.0,Crime against ST,0.0
+2014.0,Coimbatore,21.5,Crime against ST,0.0
+2015.0,Coimbatore,21.5,Crime against ST,0.0
+2016.0,Coimbatore,21.5,Crime against ST,0.0
+2017.0,Coimbatore,21.5,Crime against ST,0.0
+2018.0,Coimbatore,21.5,Crime against ST,0.0
+2019.0,Coimbatore,21.5,Crime against ST,0.0
+2020.0,Coimbatore,21.5,Crime against ST,0.0
+2021.0,Coimbatore,21.5,Crime against ST,0.0
+2014.0,Delhi,163.1,Crime against ST,0.012262415695892091
+2015.0,Delhi,163.1,Crime against ST,0.024524831391784182
+2016.0,Delhi,163.1,Crime against ST,0.012262415695892091
+2017.0,Delhi,163.1,Crime against ST,0.024524831391784182
+2018.0,Delhi,163.1,Crime against ST,0.0
+2019.0,Delhi,163.1,Crime against ST,0.012262415695892091
+2020.0,Delhi,163.1,Crime against ST,0.0061312078479460455
+2021.0,Delhi,163.1,Crime against ST,0.030656039239730228
+2014.0,Ghaziabad,23.6,Crime against ST,0.0
+2015.0,Ghaziabad,23.6,Crime against ST,0.0
+2016.0,Ghaziabad,23.6,Crime against ST,0.0
+2017.0,Ghaziabad,23.6,Crime against ST,0.0
+2018.0,Ghaziabad,23.6,Crime against ST,0.0
+2019.0,Ghaziabad,23.6,Crime against ST,0.0
+2020.0,Ghaziabad,23.6,Crime against ST,0.0
+2021.0,Ghaziabad,23.6,Crime against ST,0.0
+2014.0,Hyderabad,77.5,Crime against ST,0.24516129032258063
+2015.0,Hyderabad,77.5,Crime against ST,0.2709677419354839
+2016.0,Hyderabad,77.5,Crime against ST,0.2709677419354839
+2017.0,Hyderabad,77.5,Crime against ST,0.23225806451612904
+2018.0,Hyderabad,77.5,Crime against ST,0.3225806451612903
+2019.0,Hyderabad,77.5,Crime against ST,0.2064516129032258
+2020.0,Hyderabad,77.5,Crime against ST,0.33548387096774196
+2021.0,Hyderabad,77.5,Crime against ST,0.36129032258064514
+2014.0,Indore,21.7,Crime against ST,0.3686635944700461
+2015.0,Indore,21.7,Crime against ST,0.3225806451612903
+2016.0,Indore,21.7,Crime against ST,0.2764976958525346
+2017.0,Indore,21.7,Crime against ST,0.3225806451612903
+2018.0,Indore,21.7,Crime against ST,0.3225806451612903
+2019.0,Indore,21.7,Crime against ST,0.4147465437788019
+2020.0,Indore,21.7,Crime against ST,0.5529953917050692
+2021.0,Indore,21.7,Crime against ST,0.599078341013825
+2014.0,Jaipur,30.7,Crime against ST,2.1172638436482085
+2015.0,Jaipur,30.7,Crime against ST,2.768729641693811
+2016.0,Jaipur,30.7,Crime against ST,2.8664495114006514
+2017.0,Jaipur,30.7,Crime against ST,1.498371335504886
+2018.0,Jaipur,30.7,Crime against ST,2.47557003257329
+2019.0,Jaipur,30.7,Crime against ST,5.472312703583062
+2020.0,Jaipur,30.7,Crime against ST,4.364820846905538
+2021.0,Jaipur,30.7,Crime against ST,5.048859934853421
+2014.0,Kanpur,29.2,Crime against ST,0.0
+2015.0,Kanpur,29.2,Crime against ST,0.0
+2016.0,Kanpur,29.2,Crime against ST,0.0
+2017.0,Kanpur,29.2,Crime against ST,0.0
+2018.0,Kanpur,29.2,Crime against ST,0.0
+2019.0,Kanpur,29.2,Crime against ST,0.0
+2020.0,Kanpur,29.2,Crime against ST,0.0
+2021.0,Kanpur,29.2,Crime against ST,0.0
+2014.0,Kochi,21.2,Crime against ST,0.09433962264150944
+2015.0,Kochi,21.2,Crime against ST,0.04716981132075472
+2016.0,Kochi,21.2,Crime against ST,0.09433962264150944
+2017.0,Kochi,21.2,Crime against ST,0.0
+2018.0,Kochi,21.2,Crime against ST,0.0
+2019.0,Kochi,21.2,Crime against ST,0.09433962264150944
+2020.0,Kochi,21.2,Crime against ST,0.09433962264150944
+2021.0,Kochi,21.2,Crime against ST,0.09433962264150944
+2014.0,Kolkata,141.1,Crime against ST,0.0
+2015.0,Kolkata,141.1,Crime against ST,0.01417434443656981
+2016.0,Kolkata,141.1,Crime against ST,0.01417434443656981
+2017.0,Kolkata,141.1,Crime against ST,0.0
+2018.0,Kolkata,141.1,Crime against ST,0.021261516654854713
+2019.0,Kolkata,141.1,Crime against ST,0.03543586109142452
+2020.0,Kolkata,141.1,Crime against ST,0.01417434443656981
+2021.0,Kolkata,141.1,Crime against ST,0.0
+2014.0,Kozhikode,20.3,Crime against ST,0.04926108374384236
+2015.0,Kozhikode,20.3,Crime against ST,0.0
+2016.0,Kozhikode,20.3,Crime against ST,0.0
+2017.0,Kozhikode,20.3,Crime against ST,0.0
+2018.0,Kozhikode,20.3,Crime against ST,0.04926108374384236
+2019.0,Kozhikode,20.3,Crime against ST,0.0
+2020.0,Kozhikode,20.3,Crime against ST,0.0
+2021.0,Kozhikode,20.3,Crime against ST,0.04926108374384236
+2014.0,Lucknow,29.0,Crime against ST,0.0
+2015.0,Lucknow,29.0,Crime against ST,0.0
+2016.0,Lucknow,29.0,Crime against ST,0.0
+2017.0,Lucknow,29.0,Crime against ST,0.0
+2018.0,Lucknow,29.0,Crime against ST,0.0
+2019.0,Lucknow,29.0,Crime against ST,0.0
+2020.0,Lucknow,29.0,Crime against ST,0.0
+2021.0,Lucknow,29.0,Crime against ST,0.0
+2014.0,Mumbai,184.1,Crime against ST,0.021727322107550247
+2015.0,Mumbai,184.1,Crime against ST,0.010863661053775123
+2016.0,Mumbai,184.1,Crime against ST,0.016295491580662683
+2017.0,Mumbai,184.1,Crime against ST,0.016295491580662683
+2018.0,Mumbai,184.1,Crime against ST,0.0
+2019.0,Mumbai,184.1,Crime against ST,0.03802281368821293
+2020.0,Mumbai,184.1,Crime against ST,0.03259098316132537
+2021.0,Mumbai,184.1,Crime against ST,0.016295491580662683
+2014.0,Nagpur,25.0,Crime against ST,0.24
+2015.0,Nagpur,25.0,Crime against ST,0.16
+2016.0,Nagpur,25.0,Crime against ST,0.2
+2017.0,Nagpur,25.0,Crime against ST,0.28
+2018.0,Nagpur,25.0,Crime against ST,0.0
+2019.0,Nagpur,25.0,Crime against ST,0.32
+2020.0,Nagpur,25.0,Crime against ST,0.12
+2021.0,Nagpur,25.0,Crime against ST,0.28
+2014.0,Patna,20.5,Crime against ST,0.0
+2015.0,Patna,20.5,Crime against ST,0.0
+2016.0,Patna,20.5,Crime against ST,0.0
+2017.0,Patna,20.5,Crime against ST,0.0
+2018.0,Patna,20.5,Crime against ST,0.0
+2019.0,Patna,20.5,Crime against ST,0.0
+2020.0,Patna,20.5,Crime against ST,0.0
+2021.0,Patna,20.5,Crime against ST,0.0
+2014.0,Pune,50.5,Crime against ST,0.0
+2015.0,Pune,50.5,Crime against ST,0.019801980198019802
+2016.0,Pune,50.5,Crime against ST,0.019801980198019802
+2017.0,Pune,50.5,Crime against ST,0.019801980198019802
+2018.0,Pune,50.5,Crime against ST,0.019801980198019802
+2019.0,Pune,50.5,Crime against ST,0.0
+2020.0,Pune,50.5,Crime against ST,0.019801980198019802
+2021.0,Pune,50.5,Crime against ST,0.039603960396039604
+2014.0,Surat,45.8,Crime against ST,0.24017467248908297
+2015.0,Surat,45.8,Crime against ST,0.17467248908296945
+2016.0,Surat,45.8,Crime against ST,0.19650655021834063
+2017.0,Surat,45.8,Crime against ST,0.2183406113537118
+2018.0,Surat,45.8,Crime against ST,0.2838427947598253
+2019.0,Surat,45.8,Crime against ST,0.4148471615720524
+2020.0,Surat,45.8,Crime against ST,0.26200873362445415
+2021.0,Surat,45.8,Crime against ST,0.4148471615720524
+2014.0,Ahmedabad,63.5,Economic Offences,6.283464566929134
+2015.0,Ahmedabad,63.5,Economic Offences,5.952755905511811
+2016.0,Ahmedabad,63.5,Economic Offences,7.543307086614173
+2017.0,Ahmedabad,63.5,Economic Offences,9.5748031496063
+2018.0,Ahmedabad,63.5,Economic Offences,13.259842519685039
+2019.0,Ahmedabad,63.5,Economic Offences,13.543307086614174
+2020.0,Ahmedabad,63.5,Economic Offences,11.559055118110237
+2021.0,Ahmedabad,63.5,Economic Offences,12.047244094488189
+2014.0,Bengaluru,85.0,Economic Offences,37.92941176470588
+2015.0,Bengaluru,85.0,Economic Offences,41.4
+2016.0,Bengaluru,85.0,Economic Offences,41.23529411764706
+2017.0,Bengaluru,85.0,Economic Offences,40.741176470588236
+2018.0,Bengaluru,85.0,Economic Offences,38.129411764705885
+2019.0,Bengaluru,85.0,Economic Offences,33.529411764705884
+2020.0,Bengaluru,85.0,Economic Offences,24.529411764705884
+2021.0,Bengaluru,85.0,Economic Offences,31.941176470588236
+2014.0,Chennai,87.0,Economic Offences,8.045977011494253
+2015.0,Chennai,87.0,Economic Offences,6.413793103448276
+2016.0,Chennai,87.0,Economic Offences,4.896551724137931
+2017.0,Chennai,87.0,Economic Offences,7.620689655172414
+2018.0,Chennai,87.0,Economic Offences,12.068965517241379
+2019.0,Chennai,87.0,Economic Offences,9.32183908045977
+2020.0,Chennai,87.0,Economic Offences,8.0
+2021.0,Chennai,87.0,Economic Offences,9.655172413793103
+2014.0,Coimbatore,21.5,Economic Offences,8.744186046511627
+2015.0,Coimbatore,21.5,Economic Offences,7.953488372093023
+2016.0,Coimbatore,21.5,Economic Offences,5.488372093023256
+2017.0,Coimbatore,21.5,Economic Offences,6.744186046511628
+2018.0,Coimbatore,21.5,Economic Offences,4.930232558139535
+2019.0,Coimbatore,21.5,Economic Offences,5.023255813953488
+2020.0,Coimbatore,21.5,Economic Offences,4.27906976744186
+2021.0,Coimbatore,21.5,Economic Offences,8.465116279069768
+2014.0,Delhi,163.1,Economic Offences,31.50214592274678
+2015.0,Delhi,163.1,Economic Offences,39.21520539546291
+2016.0,Delhi,163.1,Economic Offences,36.4316370324954
+2017.0,Delhi,163.1,Economic Offences,29.478847332924587
+2018.0,Delhi,163.1,Economic Offences,27.400367872470877
+2019.0,Delhi,163.1,Economic Offences,29.5340282035561
+2020.0,Delhi,163.1,Economic Offences,27.253218884120173
+2021.0,Delhi,163.1,Economic Offences,31.281422440220723
+2014.0,Ghaziabad,23.6,Economic Offences,19.279661016949152
+2015.0,Ghaziabad,23.6,Economic Offences,18.347457627118644
+2016.0,Ghaziabad,23.6,Economic Offences,18.601694915254235
+2017.0,Ghaziabad,23.6,Economic Offences,20.04237288135593
+2018.0,Ghaziabad,23.6,Economic Offences,23.389830508474574
+2019.0,Ghaziabad,23.6,Economic Offences,16.01694915254237
+2020.0,Ghaziabad,23.6,Economic Offences,24.025423728813557
+2021.0,Ghaziabad,23.6,Economic Offences,25.21186440677966
+2014.0,Hyderabad,77.5,Economic Offences,35.27741935483871
+2015.0,Hyderabad,77.5,Economic Offences,30.01290322580645
+2016.0,Hyderabad,77.5,Economic Offences,28.89032258064516
+2017.0,Hyderabad,77.5,Economic Offences,26.283870967741937
+2018.0,Hyderabad,77.5,Economic Offences,23.070967741935483
+2019.0,Hyderabad,77.5,Economic Offences,24.451612903225808
+2020.0,Hyderabad,77.5,Economic Offences,44.21935483870968
+2021.0,Hyderabad,77.5,Economic Offences,62.70967741935484
+2014.0,Indore,21.7,Economic Offences,10.967741935483872
+2015.0,Indore,21.7,Economic Offences,9.44700460829493
+2016.0,Indore,21.7,Economic Offences,14.700460829493087
+2017.0,Indore,21.7,Economic Offences,12.165898617511521
+2018.0,Indore,21.7,Economic Offences,12.350230414746544
+2019.0,Indore,21.7,Economic Offences,20.921658986175117
+2020.0,Indore,21.7,Economic Offences,12.580645161290324
+2021.0,Indore,21.7,Economic Offences,18.202764976958527
+2014.0,Jaipur,30.7,Economic Offences,161.59609120521174
+2015.0,Jaipur,30.7,Economic Offences,182.83387622149837
+2016.0,Jaipur,30.7,Economic Offences,154.46254071661238
+2017.0,Jaipur,30.7,Economic Offences,140.6514657980456
+2018.0,Jaipur,30.7,Economic Offences,142.83387622149837
+2019.0,Jaipur,30.7,Economic Offences,198.92508143322476
+2020.0,Jaipur,30.7,Economic Offences,104.78827361563518
+2021.0,Jaipur,30.7,Economic Offences,139.25081433224756
+2014.0,Kanpur,29.2,Economic Offences,16.027397260273972
+2015.0,Kanpur,29.2,Economic Offences,14.657534246575343
+2016.0,Kanpur,29.2,Economic Offences,18.86986301369863
+2017.0,Kanpur,29.2,Economic Offences,26.198630136986303
+2018.0,Kanpur,29.2,Economic Offences,26.198630136986303
+2019.0,Kanpur,29.2,Economic Offences,14.965753424657535
+2020.0,Kanpur,29.2,Economic Offences,9.623287671232877
+2021.0,Kanpur,29.2,Economic Offences,14.82876712328767
+2014.0,Kochi,21.2,Economic Offences,36.22641509433962
+2015.0,Kochi,21.2,Economic Offences,28.20754716981132
+2016.0,Kochi,21.2,Economic Offences,27.21698113207547
+2017.0,Kochi,21.2,Economic Offences,17.78301886792453
+2018.0,Kochi,21.2,Economic Offences,21.745283018867926
+2019.0,Kochi,21.2,Economic Offences,22.12264150943396
+2020.0,Kochi,21.2,Economic Offences,22.68867924528302
+2021.0,Kochi,21.2,Economic Offences,20.471698113207548
+2014.0,Kolkata,141.1,Economic Offences,16.13040396881644
+2015.0,Kolkata,141.1,Economic Offences,15.386250885896528
+2016.0,Kolkata,141.1,Economic Offences,15.27285613040397
+2017.0,Kolkata,141.1,Economic Offences,15.57760453579022
+2018.0,Kolkata,141.1,Economic Offences,19.340892983699504
+2019.0,Kolkata,141.1,Economic Offences,16.491849751948973
+2020.0,Kolkata,141.1,Economic Offences,12.87739192062367
+2021.0,Kolkata,141.1,Economic Offences,14.720056697377746
+2014.0,Kozhikode,20.3,Economic Offences,15.02463054187192
+2015.0,Kozhikode,20.3,Economic Offences,12.955665024630541
+2016.0,Kozhikode,20.3,Economic Offences,6.995073891625616
+2017.0,Kozhikode,20.3,Economic Offences,8.226600985221674
+2018.0,Kozhikode,20.3,Economic Offences,6.600985221674876
+2019.0,Kozhikode,20.3,Economic Offences,8.571428571428571
+2020.0,Kozhikode,20.3,Economic Offences,14.778325123152708
+2021.0,Kozhikode,20.3,Economic Offences,15.320197044334975
+2014.0,Lucknow,29.0,Economic Offences,46.58620689655172
+2015.0,Lucknow,29.0,Economic Offences,42.13793103448276
+2016.0,Lucknow,29.0,Economic Offences,54.62068965517241
+2017.0,Lucknow,29.0,Economic Offences,65.03448275862068
+2018.0,Lucknow,29.0,Economic Offences,86.34482758620689
+2019.0,Lucknow,29.0,Economic Offences,103.82758620689656
+2020.0,Lucknow,29.0,Economic Offences,76.6896551724138
+2021.0,Lucknow,29.0,Economic Offences,118.62068965517241
+2014.0,Mumbai,184.1,Economic Offences,23.2753938077132
+2015.0,Mumbai,184.1,Economic Offences,24.454101032047802
+2016.0,Mumbai,184.1,Economic Offences,22.76480173818577
+2017.0,Mumbai,184.1,Economic Offences,24.236827810972297
+2018.0,Mumbai,184.1,Economic Offences,26.089082020640955
+2019.0,Mumbai,184.1,Economic Offences,30.17925040738729
+2020.0,Mumbai,184.1,Economic Offences,21.330798479087452
+2021.0,Mumbai,184.1,Economic Offences,30.80391091797936
+2014.0,Nagpur,25.0,Economic Offences,18.04
+2015.0,Nagpur,25.0,Economic Offences,18.56
+2016.0,Nagpur,25.0,Economic Offences,18.72
+2017.0,Nagpur,25.0,Economic Offences,20.36
+2018.0,Nagpur,25.0,Economic Offences,21.36
+2019.0,Nagpur,25.0,Economic Offences,18.08
+2020.0,Nagpur,25.0,Economic Offences,20.24
+2021.0,Nagpur,25.0,Economic Offences,21.64
+2014.0,Patna,20.5,Economic Offences,56.73170731707317
+2015.0,Patna,20.5,Economic Offences,78.4390243902439
+2016.0,Patna,20.5,Economic Offences,63.02439024390244
+2017.0,Patna,20.5,Economic Offences,7.609756097560975
+2018.0,Patna,20.5,Economic Offences,61.65853658536585
+2019.0,Patna,20.5,Economic Offences,74.8780487804878
+2020.0,Patna,20.5,Economic Offences,49.609756097560975
+2021.0,Patna,20.5,Economic Offences,57.609756097560975
+2014.0,Pune,50.5,Economic Offences,17.06930693069307
+2015.0,Pune,50.5,Economic Offences,17.96039603960396
+2016.0,Pune,50.5,Economic Offences,21.96039603960396
+2017.0,Pune,50.5,Economic Offences,20.712871287128714
+2018.0,Pune,50.5,Economic Offences,15.386138613861386
+2019.0,Pune,50.5,Economic Offences,18.495049504950494
+2020.0,Pune,50.5,Economic Offences,9.504950495049505
+2021.0,Pune,50.5,Economic Offences,13.96039603960396
+2014.0,Surat,45.8,Economic Offences,8.296943231441048
+2015.0,Surat,45.8,Economic Offences,9.192139737991267
+2016.0,Surat,45.8,Economic Offences,9.956331877729259
+2017.0,Surat,45.8,Economic Offences,15.69868995633188
+2018.0,Surat,45.8,Economic Offences,18.100436681222707
+2019.0,Surat,45.8,Economic Offences,17.554585152838428
+2020.0,Surat,45.8,Economic Offences,8.755458515283843
+2021.0,Surat,45.8,Economic Offences,14.475982532751093
+2014.0,Ahmedabad,63.5,Cyber Crimes,0.5039370078740157
+2015.0,Ahmedabad,63.5,Cyber Crimes,0.4409448818897638
+2016.0,Ahmedabad,63.5,Cyber Crimes,1.2125984251968505
+2017.0,Ahmedabad,63.5,Cyber Crimes,1.763779527559055
+2018.0,Ahmedabad,63.5,Cyber Crimes,3.338582677165354
+2019.0,Ahmedabad,63.5,Cyber Crimes,2.6929133858267718
+2020.0,Ahmedabad,63.5,Cyber Crimes,6.6299212598425195
+2021.0,Ahmedabad,63.5,Cyber Crimes,7.039370078740157
+2014.0,Bengaluru,85.0,Cyber Crimes,7.9411764705882355
+2015.0,Bengaluru,85.0,Cyber Crimes,12.258823529411766
+2016.0,Bengaluru,85.0,Cyber Crimes,8.964705882352941
+2017.0,Bengaluru,85.0,Cyber Crimes,32.27058823529412
+2018.0,Bengaluru,85.0,Cyber Crimes,61.8
+2019.0,Bengaluru,85.0,Cyber Crimes,124.17647058823529
+2020.0,Bengaluru,85.0,Cyber Crimes,104.61176470588235
+2021.0,Bengaluru,85.0,Cyber Crimes,75.56470588235294
+2014.0,Chennai,87.0,Cyber Crimes,0.39080459770114945
+2015.0,Chennai,87.0,Cyber Crimes,0.3333333333333333
+2016.0,Chennai,87.0,Cyber Crimes,0.2988505747126437
+2017.0,Chennai,87.0,Cyber Crimes,0.5977011494252874
+2018.0,Chennai,87.0,Cyber Crimes,0.8390804597701149
+2019.0,Chennai,87.0,Cyber Crimes,1.3563218390804597
+2020.0,Chennai,87.0,Cyber Crimes,2.1379310344827585
+2021.0,Chennai,87.0,Cyber Crimes,0.8735632183908046
+2014.0,Coimbatore,21.5,Cyber Crimes,0.9302325581395349
+2015.0,Coimbatore,21.5,Cyber Crimes,0.9302325581395349
+2016.0,Coimbatore,21.5,Cyber Crimes,0.8372093023255814
+2017.0,Coimbatore,21.5,Cyber Crimes,0.8837209302325582
+2018.0,Coimbatore,21.5,Cyber Crimes,0.6976744186046512
+2019.0,Coimbatore,21.5,Cyber Crimes,0.37209302325581395
+2020.0,Coimbatore,21.5,Cyber Crimes,0.18604651162790697
+2021.0,Coimbatore,21.5,Cyber Crimes,2.046511627906977
+2014.0,Delhi,163.1,Cyber Crimes,1.3733905579399142
+2015.0,Delhi,163.1,Cyber Crimes,1.0361741263028816
+2016.0,Delhi,163.1,Cyber Crimes,0.5518087063151441
+2017.0,Delhi,163.1,Cyber Crimes,0.8767627222562845
+2018.0,Delhi,163.1,Cyber Crimes,0.9993868792152054
+2019.0,Delhi,163.1,Cyber Crimes,0.6560392397302269
+2020.0,Delhi,163.1,Cyber Crimes,1.0177805027590436
+2021.0,Delhi,163.1,Cyber Crimes,2.1152667075413856
+2014.0,Ghaziabad,23.6,Cyber Crimes,2.584745762711864
+2015.0,Ghaziabad,23.6,Cyber Crimes,1.059322033898305
+2016.0,Ghaziabad,23.6,Cyber Crimes,2.6271186440677963
+2017.0,Ghaziabad,23.6,Cyber Crimes,5.0
+2018.0,Ghaziabad,23.6,Cyber Crimes,8.09322033898305
+2019.0,Ghaziabad,23.6,Cyber Crimes,14.703389830508474
+2020.0,Ghaziabad,23.6,Cyber Crimes,32.03389830508474
+2021.0,Ghaziabad,23.6,Cyber Crimes,19.110169491525422
+2014.0,Hyderabad,77.5,Cyber Crimes,4.980645161290322
+2015.0,Hyderabad,77.5,Cyber Crimes,4.7612903225806456
+2016.0,Hyderabad,77.5,Cyber Crimes,3.7548387096774194
+2017.0,Hyderabad,77.5,Cyber Crimes,4.232258064516129
+2018.0,Hyderabad,77.5,Cyber Crimes,5.52258064516129
+2019.0,Hyderabad,77.5,Cyber Crimes,17.793548387096774
+2020.0,Hyderabad,77.5,Cyber Crimes,32.94193548387097
+2021.0,Hyderabad,77.5,Cyber Crimes,42.619354838709675
+2014.0,Indore,21.7,Cyber Crimes,2.903225806451613
+2015.0,Indore,21.7,Cyber Crimes,2.9953917050691246
+2016.0,Indore,21.7,Cyber Crimes,0.967741935483871
+2017.0,Indore,21.7,Cyber Crimes,1.4746543778801844
+2018.0,Indore,21.7,Cyber Crimes,1.7972350230414746
+2019.0,Indore,21.7,Cyber Crimes,1.8894009216589862
+2020.0,Indore,21.7,Cyber Crimes,2.119815668202765
+2021.0,Indore,21.7,Cyber Crimes,1.7050691244239633
+2014.0,Jaipur,30.7,Cyber Crimes,12.182410423452769
+2015.0,Jaipur,30.7,Cyber Crimes,18.338762214983714
+2016.0,Jaipur,30.7,Cyber Crimes,17.32899022801303
+2017.0,Jaipur,30.7,Cyber Crimes,22.31270358306189
+2018.0,Jaipur,30.7,Cyber Crimes,13.517915309446254
+2019.0,Jaipur,30.7,Cyber Crimes,17.71986970684039
+2020.0,Jaipur,30.7,Cyber Crimes,6.254071661237785
+2021.0,Jaipur,30.7,Cyber Crimes,8.273615635179153
+2014.0,Kanpur,29.2,Cyber Crimes,1.5068493150684932
+2015.0,Kanpur,29.2,Cyber Crimes,11.575342465753424
+2016.0,Kanpur,29.2,Cyber Crimes,4.657534246575342
+2017.0,Kanpur,29.2,Cyber Crimes,7.842465753424658
+2018.0,Kanpur,29.2,Cyber Crimes,7.842465753424658
+2019.0,Kanpur,29.2,Cyber Crimes,12.5
+2020.0,Kanpur,29.2,Cyber Crimes,10.273972602739727
+2021.0,Kanpur,29.2,Cyber Crimes,15.376712328767123
+2014.0,Kochi,21.2,Cyber Crimes,2.9716981132075473
+2015.0,Kochi,21.2,Cyber Crimes,1.2264150943396226
+2016.0,Kochi,21.2,Cyber Crimes,1.5566037735849056
+2017.0,Kochi,21.2,Cyber Crimes,1.839622641509434
+2018.0,Kochi,21.2,Cyber Crimes,2.2641509433962264
+2019.0,Kochi,21.2,Cyber Crimes,2.0283018867924527
+2020.0,Kochi,21.2,Cyber Crimes,2.9245283018867925
+2021.0,Kochi,21.2,Cyber Crimes,2.9245283018867925
+2014.0,Kolkata,141.1,Cyber Crimes,0.6945428773919207
+2015.0,Kolkata,141.1,Cyber Crimes,0.7866761162296244
+2016.0,Kolkata,141.1,Cyber Crimes,1.190644932671864
+2017.0,Kolkata,141.1,Cyber Crimes,1.3890857547838413
+2018.0,Kolkata,141.1,Cyber Crimes,0.22678951098511696
+2019.0,Kolkata,141.1,Cyber Crimes,1.1339475549255846
+2020.0,Kolkata,141.1,Cyber Crimes,1.2189936215450037
+2021.0,Kolkata,141.1,Cyber Crimes,1.559177888022679
+2014.0,Kozhikode,20.3,Cyber Crimes,1.0344827586206897
+2015.0,Kozhikode,20.3,Cyber Crimes,0.49261083743842365
+2016.0,Kozhikode,20.3,Cyber Crimes,0.7881773399014778
+2017.0,Kozhikode,20.3,Cyber Crimes,0.5911330049261083
+2018.0,Kozhikode,20.3,Cyber Crimes,1.3300492610837438
+2019.0,Kozhikode,20.3,Cyber Crimes,0.7389162561576355
+2020.0,Kozhikode,20.3,Cyber Crimes,0.5911330049261083
+2021.0,Kozhikode,20.3,Cyber Crimes,1.8226600985221675
+2014.0,Lucknow,29.0,Cyber Crimes,7.068965517241379
+2015.0,Lucknow,29.0,Cyber Crimes,11.344827586206897
+2016.0,Lucknow,29.0,Cyber Crimes,12.448275862068966
+2017.0,Lucknow,29.0,Cyber Crimes,20.96551724137931
+2018.0,Lucknow,29.0,Cyber Crimes,33.172413793103445
+2019.0,Lucknow,29.0,Cyber Crimes,43.51724137931034
+2020.0,Lucknow,29.0,Cyber Crimes,50.51724137931034
+2021.0,Lucknow,29.0,Cyber Crimes,36.793103448275865
+2014.0,Mumbai,184.1,Cyber Crimes,3.3025529603476373
+2015.0,Mumbai,184.1,Cyber Crimes,5.317762085822922
+2016.0,Mumbai,184.1,Cyber Crimes,5.32319391634981
+2017.0,Mumbai,184.1,Cyber Crimes,7.398153177620858
+2018.0,Mumbai,184.1,Cyber Crimes,8.049972840847365
+2019.0,Mumbai,184.1,Cyber Crimes,13.726235741444867
+2020.0,Mumbai,184.1,Cyber Crimes,13.215643671917437
+2021.0,Mumbai,184.1,Cyber Crimes,15.65996740901684
+2014.0,Nagpur,25.0,Cyber Crimes,2.16
+2015.0,Nagpur,25.0,Cyber Crimes,4.08
+2016.0,Nagpur,25.0,Cyber Crimes,3.88
+2017.0,Nagpur,25.0,Cyber Crimes,3.24
+2018.0,Nagpur,25.0,Cyber Crimes,4.24
+2019.0,Nagpur,25.0,Cyber Crimes,4.76
+2020.0,Nagpur,25.0,Cyber Crimes,9.72
+2021.0,Nagpur,25.0,Cyber Crimes,7.68
+2014.0,Patna,20.5,Cyber Crimes,4.097560975609756
+2015.0,Patna,20.5,Cyber Crimes,9.121951219512194
+2016.0,Patna,20.5,Cyber Crimes,8.146341463414634
+2017.0,Patna,20.5,Cyber Crimes,3.8536585365853657
+2018.0,Patna,20.5,Cyber Crimes,5.609756097560975
+2019.0,Patna,20.5,Cyber Crimes,9.853658536585366
+2020.0,Patna,20.5,Cyber Crimes,15.21951219512195
+2021.0,Patna,20.5,Cyber Crimes,14.829268292682928
+2014.0,Pune,50.5,Cyber Crimes,2.772277227722772
+2015.0,Pune,50.5,Cyber Crimes,1.683168316831683
+2016.0,Pune,50.5,Cyber Crimes,5.326732673267327
+2017.0,Pune,50.5,Cyber Crimes,6.297029702970297
+2018.0,Pune,50.5,Cyber Crimes,3.0297029702970297
+2019.0,Pune,50.5,Cyber Crimes,6.118811881188119
+2020.0,Pune,50.5,Cyber Crimes,4.712871287128713
+2021.0,Pune,50.5,Cyber Crimes,4.455445544554456
+2014.0,Surat,45.8,Cyber Crimes,1.7248908296943233
+2015.0,Surat,45.8,Cyber Crimes,1.834061135371179
+2016.0,Surat,45.8,Cyber Crimes,1.4410480349344978
+2017.0,Surat,45.8,Cyber Crimes,2.292576419213974
+2018.0,Surat,45.8,Cyber Crimes,3.3842794759825328
+2019.0,Surat,45.8,Cyber Crimes,4.978165938864629
+2020.0,Surat,45.8,Cyber Crimes,4.454148471615721
+2021.0,Surat,45.8,Cyber Crimes,6.462882096069869
